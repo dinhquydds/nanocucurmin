@@ -1,0 +1,14 @@
+9/23/17 11:24 PM
+Project Statistics
+
+                 	Segments	 Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	   20086	317137	                    1436743	                      1744764	     1	
+Remaining:       	   20084	317119	                    1436654	                      1744658	     1	
+Unique:          	   19905	316691	                    1434806	                      1742560	     1	
+Unique Remaining:	   19903	316673	                    1434717	                      1742454	     1	
+
+
+Individual File Statistics:
+
+File Name           	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+The-Fountainhead.pdf	         20086	             20084	          19905	                    19903	     317137	         317119	      316691	                316673	                          1436743	                              1436654	                           1434806	                                     1434717	                            1744764	                                1744658	                             1742560	                                       1742454	
