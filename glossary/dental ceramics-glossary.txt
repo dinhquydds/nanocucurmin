@@ -1,0 +1,7 @@
+lithium disilicate	lithium disilicate
+zirconia	zirconia
+ceramic block	khối sứ
+technology	công nghệ
+mechanical property	tính chất cơ học
+system	hệ thống
+equigingival margin	đường hoàn tất ngang nướu

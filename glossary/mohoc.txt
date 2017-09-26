@@ -1,0 +1,149 @@
+A band	băng A
+A-I junction	nối A-I
+acceptor membrane	màng nhận
+accomodation	sự điều tiết
+acidified vesicle	túi acid
+acidophil	bạch cầu ưa acid
+acinar	nang
+acinus	nang
+acini	nang
+acquired disorder	bệnh mắc phải
+acrocentric	tâm đầu
+actin filament	siêu sợi actin
+action potential	điện thế động
+active macrophage	đại thực bào hoạt động
+active zone	vùng hoạt động
+acute nonlymphocytic leukemia	ung thư máu không lympho bào cấp
+adaptor protein	protein khớp nối
+adapter protein	protein khớp nối
+adaptor molecule	phân tử khớp nối
+adenoma	u biểu mô lành
+adipose tissue	mô mỡ
+adolescence	thanh thiếu niên
+adrenoleukodystrophy	nghịch dưỡng thượng thận - chất trắng
+adult	người trưởng thành
+adult connective tissue	mô liên kết người trưởng thành
+adheren junction	liên kết dính
+afferent axon	sợi trục đến
+afferent nerve fiber	sợi thần kinh đến
+age-related macular degeneration	thoái hoá điểm vàng do tuổi già
+aggregate	tập hợp	tổ hợp
+agranulocyte	bạch cầu không hạt
+albino	người bệnh bạch tạng
+apoptosis initiation factor	yếu tố khởi phát sự chết rụng
+allergic hypersentivity reaction	phản ứng quá mẫn do dị ứng
+alveolar	nang	phế nang
+alveolar macrophage	đại thực bào phế nang
+amacrine cell	tế bào không sợi nhánh
+amnion	màng ối
+amphiarthrosis	khớp bán động
+amplify	khuếch đại
+amplitude	biên độ
+ampulla	bóng
+amyotrophic lateral sclerosis	xơ hoá cột bên teo cơ
+anemia	thiếu máu
+anemia	thiếu tế bào máu
+anlage	mầm
+anaphase	kỳ sau
+anaphase-promoting complex	phức hợp khởi động kỳ sau
+anatomic axis	trục giải phẫu
+anchoring filament	siêu sợi neo
+anchoring junction	liên kết neo
+anchorage-indeppendent growth	sự tăng trưởng không phụ thuộc neo
+androgen insensitity syndrome	hội chứng không nhạy androgen
+anencephaly	vô não
+aneurism	phình động mạch
+angiogenic factor	yếu tố tạo mạch
+angiogenesis	sự tạo mạch
+angular acceleration	gia tốc góc
+anion carrier	protein tải anion
+annular vessel	mạch vòng
+anterior chamber	tiền phòng
+anterior epithelium	biểu mô trước
+anterograde traffic	sự lưu thông tới
+antiapoptotic activity	hoạt động không chết rụng
+antigen	kháng nguyên
+anti-oncogene	gen chống ung thư
+apical dense terminal web	lưới tận đậm ở vùng đỉnh
+apical domain	vùng đỉnh
+apocrine secretion	chế tiết phần đỉnh
+apoptosis	sự chết rụng
+apoptosis pathway	lộ trình chết rụng
+apoptotic body	thể chết rụng
+appetite	ngon miệng
+appositional growth	sự tăng trưởng đắp
+aqueous channel	kênh thuỷ dịch
+aqueous humor	thuỷ dịch
+arachnodactyly	chứng tay vượn
+arachnoid-CSF barrier	hàng rào nhện - dịch não tuỷ
+areolar connective tissue	mô liên kết thưa
+arm	cánh tay
+arthrochalasia	chứng lỏng khớp
+articulation	khớp
+articular cartilage	sụn khớp
+articular cavity	khoang khớp
+articular surface	bề mặt khớp
+artificially	nhân tạo
+association neuron	neuron liên hiệp
+asthma	suyễn
+astral microtubule	siêu ống thể sao
+astrocyte	tế bào sao
+astrocytic gliosis	phản ứng tế bào sao
+astrocytic plaque mảng tế bào sao
+asymetrical	bất đối xứng
+ataxia	mất điều vận
+atherosclerotic plaque	mảng xơ vữa động mạch
+atp-dependent pump	bơm phụ thuộc ATP
+auditory ossicle	xương thính giác
+auditory system	hệ thính giác
+auditory tube	vòi nhĩ
+auricle	loa tai
+autoantibody	kháng thể tự thân
+autocrine	tự tiết
+autocrine cell signaling	tín hiệu tế bào tự tiết
+autocrine motility factor	yếu tố di động tự tiết
+autoimmune atrophic gastritis	viêm teo dạ dày tự miễn
+autoimmune disease	bệnh tự miễn
+autoimmune lymphoproliferative syndrome
+autoimmune thrombocytopenic purpura	ban xuất huyết giảm tiểu cầu tự miễn
+autonomic ganglion	hạch thần kinh tự động
+autonomic nervous system	hệ thần kinh tự động
+autonomic pertubation	nhiễu loạn thần kinh tự động
+autophagosome	thể tự thực bào
+autophagy	sự tự thực bào
+autophosphorylation	sự tự động phosphoryl hoá
+autoradiography	phương pháp tự chụp hình phóng xạ
+autosomal chromosome	nhiễm sắc thể thường
+autosomal dominat	trội nhiễm sắc thể thường
+autosomal dominant neurodegenerative disease	bệnh thoái hoá neuron di truyền trội nhiễm sắc thể thường
+autosomal recessive juvenile parkinsonism	bệnh Parkinson thiếu niên di truyền lặn nhiễm sắc thể thường
+autosome	nhiễm sắc thể thường
+autotypic tight junction	liên kết bịt cùng loại tế bào
+auxiliary protein	protein hỗ trợ
+axis	trục
+axoaxonic synapse	synap trục - trục
+axodendritic synapse	synap trục - nhánh
+axon	sợi trục
+axon hillock	gò sợi trục
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

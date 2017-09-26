@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(On a scale of 1 to 10) 1 = Mild   10 = Severe</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061230Z" creationid="quypc" creationdate="20170221T061230Z">
+        <seg>(Trên thang điểm từ 1 đến 10) 1 = Nhẹ 10 = Nghiêm trọng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ART AND SCIENCE OF DIAGNOSIS</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T060505Z" creationid="quypc" creationdate="20170221T060505Z">
+        <seg>NGHỆ THUẬT VÀ KHOA HỌC CỦA VIỆC CHẨN ĐOÁN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Address</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062326Z" creationid="quypc" creationdate="20170221T062326Z">
+        <seg>Địa chỉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alcoholism</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062556Z" creationid="quypc" creationdate="20170221T062556Z">
+        <seg>Nghiện rượu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allergies</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062710Z" creationid="quypc" creationdate="20170221T062710Z">
+        <seg>Dị ứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anemia</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062746Z" creationid="quypc" creationdate="20170221T062746Z">
+        <seg>Thiếu máu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apical (Periapical) Disease</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061107Z" creationid="quypc" creationdate="20170221T061107Z">
+        <seg>Bệnh lý quanh chóp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you allergic to Latex or any other substances or materials?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170224T150558Z" creationid="quypc" creationdate="20170224T150558Z">
+        <seg>Bạn có dị ứng với Latex hoặc bất kỳ chất hoặc vật liệu nào khác không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you taking any kind of medication or drugs at this time?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062500Z" creationid="quypc" creationdate="20170221T062500Z">
+        <seg>Bạn có dùng bất cứ loại thuốc hoặc thuốc vào lúc này?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Asthma</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062827Z" creationid="quypc" creationdate="20170221T062827Z">
+        <seg>Hen suyễn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blood pressure</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062600Z" creationid="quypc" creationdate="20170221T062600Z">
+        <seg>Huyết áp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But the
+gathering of scientific data is not enough to formulate an
+accurate clinical diagnosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T060434Z" creationid="quypc" creationdate="20170221T060434Z">
+        <seg>CHƯƠNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER
+1
+LOUIS H. BERMAN and GARY R. HARTWELL
+Chapter out line
+ART AND SCIENCE OF DIAGNOSIS
+Chief Complaint
+Medical History
+Dental History
+examination and testing
+Extraoral Examination
+Intraoral Examination
+Pulp Tests
+Special Tests
+Root Fractures and Cracks
+Referred Pain
+CLINICAL CLASSIFICATION OF PULPAL AND
+PERIAPICAL DISEASES
+Pulpal Disease
+Apical (Periapical) Disease
+Pain of Nonodontogenic Origin
+Art and Science of Diagnosis
+Almost a century ago, Dr. Hermann Prinz wrote: “The object
+of the practice of clinical dentistry … is to institute preventive
+measures, to relieve suffering, and to cure disease.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170224T151500Z">
+        <seg>CHƯƠNG
+1
+LOUIS H. BERMAN and GARY R. HARTWELL
+Nội dung chính của chương này
+NGHỆ THUẬT VÀ KHOA HỌC CHẨN ĐOÁN
+Than phiền chính
+Tiền sử y khoa
+Tiền sử nha khoa
+Khám và các thử nghiệm 
+Khám ngoài miệng
+Khám trong miệng
+Thử tuỷ răng
+Thử nghiệm đặc biệt
+Root Fractures and Cracks
+Referred Pain
+CLINICAL CLASSIFICATION OF PULPAL AND
+PERIAPICAL DISEASES
+Pulpal Disease
+Apical (Periapical) Disease
+Pain of Nonodontogenic Origin
+Art and Science of Diagnosis
+Almost a century ago, Dr. Hermann Prinz wrote: “The object
+of the practice of clinical dentistry … is to institute preventive
+measures, to relieve suffering, and to cure disease.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER 1 • Diagnosis</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T063014Z" creationid="quypc" creationdate="20170221T063014Z">
+        <seg>CHƯƠNG 1 • Chẩn đoán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER OUTLINE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T060501Z" creationid="quypc" creationdate="20170221T060501Z">
+        <seg>CHƯƠNG PHÁC THẢO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CLINICAL CLASSIFICATION OF PULPAL AND PERIAPICAL DISEASES</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061016Z" creationid="quypc" creationdate="20170221T061016Z">
+        <seg>PHÂN LOẠI LÂM SÀNG CỦA BỆNH LÝ TUỶ VÀ VÙNG QUANH CHÓP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancer</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062711Z" creationid="quypc" creationdate="20170221T062711Z">
+        <seg>Ung thư</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Careful listening is paramount to begin
+painting the picture that details the patient’s complaint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chief Complaint Medical History Dental History</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T060542Z" creationid="quypc" creationdate="20170221T060542Z">
+        <seg>Than phiền chính tiền sử y khoa và nha khoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>City</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062327Z" creationid="quypc" creationdate="20170221T062327Z">
+        <seg>Thành phố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cold</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061700Z" creationid="quypc" creationdate="20170221T061700Z">
+        <seg>Lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constant</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061307Z" creationid="quypc" creationdate="20170221T061307Z">
+        <seg>Liên tục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062042Z" creationid="quypc" creationdate="20170221T062042Z">
+        <seg>Ngày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T063005Z" creationid="quypc" creationdate="20170221T063005Z">
+        <seg>Ngày:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diabetes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062754Z" creationid="quypc" creationdate="20170221T062754Z">
+        <seg>Đái tháo đường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diagnosis</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T060437Z" creationid="quypc" creationdate="20170221T060437Z">
+        <seg>Chẩn đoán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you grind or clench your teeth?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061803Z" creationid="quypc" creationdate="20170221T061803Z">
+        <seg>Bạn có nghiến răng hay siết chặt hàm không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you wear a pacemaker or any other kind of prosthetic device?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062454Z" creationid="quypc" creationdate="20170221T062454Z">
+        <seg>Bạn có mang máy trợ tim hay bất kỳ loại thiết bị giả?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does a change in posture (lying down or bending over) cause your tooth to hurt?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061747Z" creationid="quypc" creationdate="20170221T061747Z">
+        <seg>Khi thay đổi tư thế (nằm hoặc cúi xuống) gây đau răng nào không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does it hurt if you press the gum tissue around this tooth?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061652Z" creationid="quypc" creationdate="20170221T061652Z">
+        <seg>Nó có đau không khi bạn ấn vào nướu xung quanh răng này?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drug dependency</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062831Z" creationid="quypc" creationdate="20170221T062831Z">
+        <seg>Ma tuý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dull</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061351Z" creationid="quypc" creationdate="20170221T061351Z">
+        <seg>Âm ỉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Epilepsy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062618Z" creationid="quypc" creationdate="20170221T062603Z">
+        <seg>Động kinh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Establishing
+a differential diagnosis in endodontics requires a unique
+blend of knowledge, skills, and ability to interpret and interact
+with a patient in real time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ExAmINATION AND TESTING</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T060607Z" creationid="quypc" creationdate="20170221T060607Z">
+        <seg>KHÁM VÀ THỬ NGHIỆM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excellent   Good</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062222Z" creationid="quypc" creationdate="20170221T062222Z">
+        <seg>Tuyệt vời Tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extraoral Examination Intraoral Examination Pulp Tests</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T060712Z" creationid="quypc" creationdate="20170221T060712Z">
+        <seg>Khám ngoài miệng Khám trong miệng Thử tuỷ răng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIG. 1-2 Succinct, comprehensive medical history form designed to provide insight into systemic conditions that could produce or affect the patient’s symptoms, mandate alterations in the modality of treatment, or change the treatment plan.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170224T150820Z" creationid="quypc" creationdate="20170224T150820Z">
+        <seg>FIG. 1-2 Bảng thiết kế tiền sử y khoa rõ ràng, súc tích cung cấp cái nhìn sâu sắc về tình trạng toàn thân có thể có ảnh hưởng tới triệu chứng của bệnh nhân, thay đổi phương pháp điều trị, hoặc thay đổi kế hoạch điều trị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIRST NAME</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062118Z" creationid="quypc" creationdate="20170221T062118Z">
+        <seg>TÊN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FREQUENCY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061247Z" creationid="quypc" creationdate="20170221T061247Z">
+        <seg>TẦN SUẤT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fair    Poor</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062241Z" creationid="quypc" creationdate="20170221T062241Z">
+        <seg>Bình thường    Kém</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glaucoma</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062714Z" creationid="quypc" creationdate="20170221T062714Z">
+        <seg>Bệnh tăng nhãn áp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has a restoration (filling or crown) been placed on this tooth recently?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061851Z" creationid="quypc" creationdate="20170221T061851Z">
+        <seg>Bạn có phục hồi (trám răng hoặc mão răng) trên răng này gần đây không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you ever had any kind of surgery?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062359Z" creationid="quypc" creationdate="20170221T062359Z">
+        <seg>Bạn đã bao giờ có bất kỳ loại phẫu thuật?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you ever had any trouble with prolonged bleeding after surgery?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062447Z" creationid="quypc" creationdate="20170221T062447Z">
+        <seg>Bạn có bao giờ bị chảy máu kéo dài sau bất kỳ phẫu thuật nào chưa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Head/Neck injuries</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062807Z" creationid="quypc" creationdate="20170221T062807Z">
+        <seg>Chấn thương  đầu/ cổHead/Neck injuries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heart disease</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062834Z" creationid="quypc" creationdate="20170221T062834Z">
+        <seg>Bệnh tim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heat</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061658Z" creationid="quypc" creationdate="20170221T061658Z">
+        <seg>Nóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hepatitis</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062614Z" creationid="quypc" creationdate="20170221T062614Z">
+        <seg>Viêm gan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How would you rate your health?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062143Z" creationid="quypc" creationdate="20170221T062143Z">
+        <seg>Bạn đánh giá sức khoẻ của bạn như thế nào?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If female, are you pregnant?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062932Z" creationid="quypc" creationdate="20170221T062932Z">
+        <seg>Nếu nữ, bạn có thai không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If so, please explain</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062923Z" creationid="quypc" creationdate="20170221T062923Z">
+        <seg>Nếu vậy, xin vui lòng giải thích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If yes, do you wear a night guard?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061820Z" creationid="quypc" creationdate="20170221T061820Z">
+        <seg>Nếu có, bạn có mang máng bảo vệ ban đêm không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If yes, please explain:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062845Z" creationid="quypc" creationdate="20170221T062845Z">
+        <seg>Nếu có, xin vui lòng giải thích:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If yes, please give name(s) of the medicine(s) and reason(s) for taking them:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062529Z" creationid="quypc" creationdate="20170221T062529Z">
+        <seg>Nếu có, xin vui lòng cho tên của thuốc và lý do uống chúng:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If yes, what kind?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062402Z" creationid="quypc" creationdate="20170221T062402Z">
+        <seg>Nếu có, loại gì?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If yes, what?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061451Z" creationid="quypc" creationdate="20170221T061451Z">
+        <seg>Nếu có, là gì?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immunodeficiency</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062818Z" creationid="quypc" creationdate="20170221T062818Z">
+        <seg>Thiếu hụt miễn dịch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In essence,
+the process of determining the existence of dental pathosis
+is the culmination of the art and science of making an accurate
+diagnosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infectious diseases</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062836Z" creationid="quypc" creationdate="20170221T062836Z">
+        <seg>Bệnh truyền nhiễm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intermittent</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061330Z" creationid="quypc" creationdate="20170221T061330Z">
+        <seg>Không liên tục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Investigating these complaints may indicate that the patient’s concerns are secondary to a medical condi- tion or possibly a result of recent dental treatment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170224T151059Z" creationid="quypc" creationdate="20170224T151059Z">
+        <seg>Nghiên cứu các than phiền cho thấy rằng các mối quan tâm của bệnh nhân là thứ phát tới tình trạng bệnh lý hoặc có thể là kết quả của điều trị nha khoa gần đây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there any other information that should be known about your health?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T063002Z" creationid="quypc" creationdate="20170221T063002Z">
+        <seg>Có thông tin nào khác nên được biết về sức khoẻ của bạn không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there anything else we should know about your teeth, gums, or sinuses that would assist us in our</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062006Z" creationid="quypc" creationdate="20170221T062006Z">
+        <seg>Có gì chúng tôi nên biết về răng của bạn, nướu, hay xoang rằng sẽ hỗ trợ chúng tôi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there anything you can do to cause the pain to increase?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061532Z" creationid="quypc" creationdate="20170221T061532Z">
+        <seg>Có điều gì cô làm gây tăng đau?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there anything you can do to relieve the pain?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061436Z" creationid="quypc" creationdate="20170221T061436Z">
+        <seg>Cô có làm điều gì để giảm đau không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kidney or liver</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062629Z" creationid="quypc" creationdate="20170221T062629Z">
+        <seg>Thận hoặc gan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LAST NAME</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062112Z" creationid="quypc" creationdate="20170221T062112Z">
+        <seg>HỌ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEVEL OF INTENSITY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061222Z" creationid="quypc" creationdate="20170221T061222Z">
+        <seg>MỨC ĐỘ NHẠY CẢM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mental</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062741Z" creationid="quypc" creationdate="20170221T062741Z">
+        <seg>Tinh thần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Migraine</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062820Z" creationid="quypc" creationdate="20170221T062820Z">
+        <seg>Chứng đau nửa đầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Momentary</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061359Z" creationid="quypc" creationdate="20170221T061359Z">
+        <seg>Thoáng qua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062325Z" creationid="quypc" creationdate="20170221T062325Z">
+        <seg>Tên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061503Z" creationid="quypc" creationdate="20170221T061503Z">
+        <seg>Không</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No appropriate treatment recommendation
+can be made until all of the whys are answered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Occasional</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061403Z" creationid="quypc" creationdate="20170221T061403Z">
+        <seg>Thỉnh thoảng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pain of Nonodontogenic Origin</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061116Z" creationid="quypc" creationdate="20170221T061116Z">
+        <seg>Đau không do răng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please circle any past or present illness you have had:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062917Z" creationid="quypc" creationdate="20170221T062917Z">
+        <seg>Vui lòng khoanh tròn bất kỳ bệnh trong quá khứ hoặc hiện tại mà bạn có:Please circle any past or present illness you have had:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please circle one.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062208Z" creationid="quypc" creationdate="20170221T062208Z">
+        <seg>Vui lòng khoanh tròn một lựa chọn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prior to this appointment, has root canal therapy been initiated on this tooth?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061929Z" creationid="quypc" creationdate="20170221T061929Z">
+        <seg>Trước khi tới cuộc hẹn này, cái răng này được điều trị tuỷ răng chưa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pulpal Disease</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061056Z" creationid="quypc" creationdate="20170221T061056Z">
+        <seg>Bệnh lý tuỷ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QUALITY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061301Z" creationid="quypc" creationdate="20170221T061301Z">
+        <seg>MỨC ĐỘ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Questioning, listening, testing,
+interpreting, and finally answering the ultimate question of
+why will lead to an accurate diagnosis and in turn result in a
+more successful treatment plan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radiographic Examination and Interpretation</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T060829Z" creationid="quypc" creationdate="20170221T060829Z">
+        <seg>Chụp phim X quang và giải thích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reason</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062538Z" creationid="quypc" creationdate="20170221T062538Z">
+        <seg>Lý do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respiratory</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062838Z" creationid="quypc" creationdate="20170221T062838Z">
+        <seg>Hô hấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rheumatic fever</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062708Z" creationid="quypc" creationdate="20170221T062708Z">
+        <seg>Bệnh thấp khớp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root Fractures and Cracks Referred Pain</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T060949Z" creationid="quypc" creationdate="20170221T060949Z">
+        <seg>Nứt gãy chân răng dẫn tới đau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharp</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061327Z" creationid="quypc" creationdate="20170221T061327Z">
+        <seg>Rõ ràng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signed: Patient or Parent</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062039Z" creationid="quypc" creationdate="20170221T062039Z">
+        <seg>Ký tên: Bệnh nhân hoặc bố mẹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sinusitis</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062735Z" creationid="quypc" creationdate="20170221T062735Z">
+        <seg>Viêm xoang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special Tests</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T060730Z" creationid="quypc" creationdate="20170221T060730Z">
+        <seg>Thử nghiệm đặc biệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>State</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062349Z" creationid="quypc" creationdate="20170221T062349Z">
+        <seg>Bang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sweets</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061708Z" creationid="quypc" creationdate="20170221T061708Z">
+        <seg>Ngọt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TELL US ABOUT YOUR HEALTH</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062102Z" creationid="quypc" creationdate="20170221T062102Z">
+        <seg>CHO CHÚNG TÔI BIẾT VỀ SỨC KHỎE CỦA BẠN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062353Z" creationid="quypc" creationdate="20170221T062353Z">
+        <seg>Điện thoại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The
+diagnostic tests that are used become the science behind the
+creation of the diagnosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The clinician formulates a definitive diagnosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The clinician must be able to approach the problem by
+crafting what questions to ask the patient and how to ask these
+pertinent questions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The clinician performs objective clinical tests
+4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The clinician questions the patient about the symptoms
+and history that led to the visit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The data must be interpreted and
+processed in order to determine what information is significant,
+and what information might be questionable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The facts
+need to be collected with an active dialogue between the
+clinician and the patient, with the clinician asking the right
+questions and carefully interpreting the answers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The patient tells the clinician why the patient is seeking
+advice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The process of making a diagnosis can be divided into five
+stages:
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The purpose of a diagnosis is to determine what problem
+the patient is having, and why the patient is having that
+problem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore
+a planned, methodical, and systematic approach to this
+investigatory process is crucial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These
+purposes are not achieved by the haphazard utilization of a
+few therapeutic formulas or of certain mechanical procedures,
+but they are based on a thorough knowledge of clinical
+pathology.”75 This statement has truly withstood the test
+of time and remains a cornerstone in diagnosis.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170224T151526Z">
+        <seg>These
+purposes are not achieved by the haphazard utilization of a
+few therapeutic formulas or of certain mechanical procedures,
+but they are based on a thorough knowledge of clinical
+pathology.”75 This statement has truly withstood the test
+of time and remains a cornerstone in diagnosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Throbbing</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061407Z" creationid="quypc" creationdate="20170221T061407Z">
+        <seg>Nhói</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ulcers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062824Z" creationid="quypc" creationdate="20170221T062824Z">
+        <seg>Loét</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ultimately, this will directly relate to what treatment,
+if any, will be necessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Venereal disease</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062842Z" creationid="quypc" creationdate="20170221T062842Z">
+        <seg>Bệnh hoa liễu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When eating or drinking, is your tooth sensitive to: Does your tooth hurt when you bite down or chew?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061618Z" creationid="quypc" creationdate="20170221T061618Z">
+        <seg>Khi ăn, uống, răng của bạn có nhạy cảm với: Có răng nào đau khi cắn hoặc nhai?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T061458Z" creationid="quypc" creationdate="20170221T061458Z">
+        <seg>Có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes                    No             Yes                    No             Yes                    No             Yes                    No             Yes              No</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062020Z" creationid="quypc" creationdate="20170221T062020Z">
+        <seg>Có Không Có Không Có Không Có Không Có Không Có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes                 No             Yes                 No             Yes            No</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062536Z" creationid="quypc" creationdate="20170221T062536Z">
+        <seg>Có Không Có Không Có Không Có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>diagnosis?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170221T062028Z" creationid="quypc" creationdate="20170221T062028Z">
+        <seg>trong chẩn đoán?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>may not be the pathologic condition that mediates the patient’s chief complaint.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170224T150948Z" creationid="quypc" creationdate="20170224T150948Z">
+        <seg>có thể không phải là tình trạng bệnh lý gây nên phàn nàn chính của bệnh nhân.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

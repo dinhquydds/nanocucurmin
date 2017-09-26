@@ -1,0 +1,9 @@
+subperiosteal	dưới màng xương
+insurance company	công ty bảo hiểm
+main cause	nguyên nhân chính
+tooth loss	mất răng
+traumatic injury	chấn thương
+treatment of choice	chọn lựa điều trị
+open apex	lỗ chóp mở
+pulpal necrosis	tuỷ hoại tử
+chronic apical periodontitis	viêm quanh chóp mạn

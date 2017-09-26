@@ -1,0 +1,70 @@
+﻿residential care home	nhà dưỡng lão
+infective endocarditis	viêm nội tâm mạc nhiễm khuẩn
+prophylaxis	dự phòng
+anaphylaxis	sốc phản vệ
+dental team	nhóm nha khoa
+recall interval	khoảng thời gian tái khám
+emergency dental	cấp cứu nha khoa
+oral health	sức khoẻ răng miệng
+children	trẻ em
+raising awareness	nâng cao nhận thức
+December	Tháng mười hai
+non-analytic study	nghiên cứu không phân tích
+case report	báo cáo ca
+case series	loạt ca
+clinical guideline	hướng dẫn lâm sàng
+October	Tháng mười
+National Collaborating Centre for Acute Care	Trung Tâm Hợp Tác Quốc Gia Về Chăm Sóc Cấp Tính
+National Institute for Clinical Excellence	Viện Quốc Gia Về Lâm Sàng Xuất Sắc
+Guideline Development Group	Nhóm Phát Triển Hướng Dẫn
+clinical care pathway	lộ trình chăm sóc lâm sàng
+Dental Health Services Research Unit	Đơn Vị Nghiên Cứu Dịch Vụ Sức Khoẻ Nha Khoa
+three times daily	ba lần mỗi ngày
+four times daily	bốn lần mỗi ngày
+twice daily	hai lần mỗi ngày
+pericoronitis	viêm quanh thân răng
+Necrotising Ulcerative Gingivitis	Viêm nướu hoại tử lở loét
+sinusitis	viêm xoang
+research design	thiết kế nghiên cứu
+extrapolated evidence	bằng chứng ngoại suy
+Squamous Cell Carcinoma	Ung thư biểu mô tế bào gai
+American Dental Association	Hiệp Hội Nha Khoa Mỹ
+Oral Cancer Screening	Tầm Soát Ung Thư Hốc Miệng
+early-stage	giai đoạn sớm
+Centers for Disease Control and Prevention	Trung Tâm Kiểm Soát và Phòng Ngừa Dịch Bệnh
+oral cancer	ung thư hốc miệng
+Expert Opinion	Ý Kiến Chuyên Gia
+scaling and root planing	cạo vôi và xử lý mặt chân răng
+twice a day	hai lần một ngày
+nonsurgical treatment	điều trị không phẫu thuật
+recommended	khuyến cáo
+anxiety and pain control	kiểm soát đau và lo âu
+intramuscular	tiêm bắp
+intravenous	tiêm tĩnh mạch
+central nervous system	hệ thần kinh trung ương
+minimal sedation	an thần tối thiểu
+dental problem	vấn đề nha khoa
+acute	cấp tính
+emergency care	chăm sóc cấp cứu
+Urgent Care	Chăm sóc khẩn cấp
+Non-urgent Care	chăm sóc không khẩn cấp
+Self Care	tự chăm sóc
+moderate sedation	an thần trung bình
+deep sedation	an thần sâu
+general anesthesia	gây mê
+sepsis	nhiễm trùng
+American Society of Anesthesiologist	Hiệp Hội Các Nhà Gây Tê Mỹ
+sedation	an thần
+blood pressure	huyết áp
+pulse rate	nhịp tim
+respiration rate	nhịp thở
+body temperature	nhiệt độ cơ thể
+clinically indicate	chỉ định lâm sàng
+dietary fluoride supplement	chế độ ăn uống bổ sung fluor
+caries prevention	phòng ngừa sâu răng
+bottled water	nước đóng chai
+varnish	vẹc-ni
+toothpaste	kem đánh răng
+reconstituted infant formula	sữa bột trẻ sơ sinh
+American Academy of Pediatric	Học Viện Nhi Khoa Hoa Kỳ
+provide information	cung cấp thông tin

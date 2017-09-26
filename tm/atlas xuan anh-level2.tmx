@@ -1,0 +1,4761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_5_r9644:9647" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Common portion)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164621Z" creationid="quypc" creationdate="20170617T185943Z">
+        <seg>(Phần chung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Common) bile duct</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163721Z" creationid="quypc" creationdate="20170617T185925Z">
+        <seg>Ống mật chủ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(commonly from anterior division)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073923Z" creationid="quypc" creationdate="20170627T073923Z">
+        <seg>(thường từ phân nhánh trước)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(crural fascia)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042249Z" creationid="quypc" creationdate="20170627T042249Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(cut edge)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144442Z" creationid="quypc" creationdate="20170617T185729Z">
+        <seg>(bờ cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>* Branch to ureter</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073627Z" creationid="quypc" creationdate="20170627T073627Z">
+        <seg>* Nhánh tới niệu quản</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1st metatarsal bone</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060837Z" creationid="quypc" creationdate="20170627T060837Z">
+        <seg>Xương đốt bàn thứ nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1st perforating artery (from profunda femoris artery)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050828Z" creationid="quypc" creationdate="20170627T050828Z">
+        <seg>Động mạch xuyên thứ nhất (từ động mạch đùi sâu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1st to 4th right lumbar arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154702Z" creationid="quypc" creationdate="20170617T185818Z">
+        <seg>Động mạch thắt lưng phải thứ 1 đến thứ 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>1st to 4th right lumbar veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161156Z" creationid="quypc" creationdate="20170617T185855Z">
+        <seg>Tĩnh mạch thắt lưng phải thứ 1 đến thứ 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>2nd and 3rd perforating arteries (from profunda femoris artery)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050917Z" creationid="quypc" creationdate="20170627T050917Z">
+        <seg>Động mạch xuyên thứ 2 và 3 (từ động mạch đùi sâu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>4th perforating artery (from profunda femoris artery)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050952Z" creationid="quypc" creationdate="20170627T050952Z">
+        <seg>Động mạch xuyên thứ 4 (từ động mạch đùi sâu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>5th metatarsal bone</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061051Z" creationid="quypc" creationdate="20170627T061051Z">
+        <seg>Xương đốt bàn thứ năm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ANTERIOR</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073858Z" creationid="quypc" creationdate="20170627T073858Z">
+        <seg>PHÍA TRƯỚC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Abdominal</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170623T143351Z" creationid="quypc" creationdate="20170623T143351Z">
+        <seg>Bụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Abdominal aorta</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154034Z" creationid="quypc" creationdate="20170617T185748Z">
+        <seg>Động mạch chủ bụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Abdominal aorta Celiac trunk</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163041Z" creationid="quypc" creationdate="20170617T185917Z">
+        <seg>Động mạch chủ bụng Động mạch thân tạng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Abductor pollicis brevis muscle (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035721Z" creationid="quypc" creationdate="20170627T035721Z">
+        <seg>Cơ dạng ngón cái ngắn (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Accessory cephalic vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002902Z" creationid="quypc" creationdate="20170614T151544Z">
+        <seg>Tĩnh mạch đầu phụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Accessory saphenous vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041759Z" creationid="quypc" creationdate="20170627T041759Z">
+        <seg>Tĩnh mạch hiển phụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Acromial branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005625Z" creationid="quypc" creationdate="20170627T005625Z">
+        <seg>Nhánh cùng vai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Adductor hiatus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050942Z" creationid="quypc" creationdate="20170627T050942Z">
+        <seg>Vòng gân cơ khép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Adductor magnus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050251Z" creationid="quypc" creationdate="20170627T050251Z">
+        <seg>Cơ khép lớn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Adductor minimus part of adductor magnus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050717Z" creationid="quypc" creationdate="20170627T050717Z">
+        <seg>Phần khép nhỏ của cơ khép lớn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Adductor pollicis muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034121Z" creationid="quypc" creationdate="20170627T034121Z">
+        <seg>Cơ khép ngón cái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ampulla</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074547Z" creationid="quypc" creationdate="20170623T143259Z">
+        <seg>Bóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anastomotic loops (arcades)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165422Z" creationid="quypc" creationdate="20170626T165422Z">
+        <seg>Các quai nối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior (palmar) view</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002048Z" creationid="quypc" creationdate="20170627T002048Z">
+        <seg>Nhín trước (mặt gan tay)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior abdominal wall (turned down)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160220Z" creationid="quypc" creationdate="20170617T185843Z">
+        <seg>Thành bụng trước (lật xuống)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior branch and</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002244Z" creationid="quypc" creationdate="20170627T002244Z">
+        <seg>Nhánh trước và</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior cecal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165543Z" creationid="quypc" creationdate="20170626T165543Z">
+        <seg>Động mạch manh tràng trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior circumflex humeral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005909Z" creationid="quypc" creationdate="20170627T005909Z">
+        <seg>Động mạch mũ cánh tay trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior cutaneous branches of femoral nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041920Z" creationid="quypc" creationdate="20170627T041920Z">
+        <seg>Các nhánh bì trước của thần kinh đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior division of internal iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073804Z" creationid="quypc" creationdate="20170627T073804Z">
+        <seg>Phân nhánh trước của động mạch chậu trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior interosseous artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T011050Z" creationid="quypc" creationdate="20170614T151636Z">
+        <seg>Động mạch gian cốt trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior interventricular sulcus and anterior interventricular branch of left coronary artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T145534Z" creationid="quypc" creationdate="20170617T185738Z">
+        <seg>Rãnh gian thất trước và động mạch gian thất trước nhánh của động mạch vành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior lateral malleolar artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062908Z" creationid="quypc" creationdate="20170627T062908Z">
+        <seg>Động mạch mắt cá ngoài trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior medial malleolar artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062836Z" creationid="quypc" creationdate="20170627T062836Z">
+        <seg>Động mạch mắt cá trong trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior superior pancreaticoduodenal  artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164539Z" creationid="quypc" creationdate="20170617T185940Z">
+        <seg>Động mạch tá tuỵ trước trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior superior pancreaticoduodenal arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164354Z" creationid="quypc" creationdate="20170617T185934Z">
+        <seg>động mạch tá tuỵ trước trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior tibial artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T052800Z" creationid="quypc" creationdate="20170627T052800Z">
+        <seg>Động mạch chày trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior tibial artery Extensor digitorum longus muscle (cut) Superficial fibular (peroneal) nerve Deep fibular (peroneal) nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062247Z" creationid="quypc" creationdate="20170627T062247Z">
+        <seg>Động mạch chày trước Cơ duỗi các ngón chân dài (đã cắt) Thần kinh mác nông Thần kinh mác sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior tibial recurrent artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T052842Z" creationid="quypc" creationdate="20170627T052842Z">
+        <seg>Động mạch quặt ngược chày trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior tibial recurrent artery and</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062410Z" creationid="quypc" creationdate="20170627T062410Z">
+        <seg>Động mạch quặt ngược chày trước và</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anterior ulnar recurrent artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010855Z" creationid="quypc" creationdate="20170627T010855Z">
+        <seg>Động mạch quặt ngược trụ trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Apex of heart</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T145151Z" creationid="quypc" creationdate="20170617T185736Z">
+        <seg>Đỉnh tim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Appendicular artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165508Z" creationid="quypc" creationdate="20170626T165508Z">
+        <seg>Động mạch ruột thừa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Arch of aorta</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T143029Z" creationid="quypc" creationdate="20170617T185716Z">
+        <seg>Cung động mạch chủ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Arcuate artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072153Z" creationid="quypc" creationdate="20170627T072153Z">
+        <seg>Động mạch cung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Arteries﻿of﻿Small﻿Intestine﻿ Common hepatic artery Celiac trunk Supraduodenal artery Splenic artery and vein Gastroduodenal artery Posterior superior Dorsal pancreaticoduodenal artery pancreatic artery Right gastro-omental Inferior (gastro-epiploic) artery pancreatic artery Anterior superior Superior mesenteric pancreaticoduodenal artery artery and vein Inferior (Common portion) pancreatico- Posterior duodenal Middle colic arteries Anterior artery (cut) Right colic artery Ileocolic artery Superior mesenteric artery Anterior cecal artery Posterior cecal artery Appendicular artery Jejunal and ileal arteries Anastomotic loops (arcades) Straight arteries (arteriae rectae) Plate﻿287﻿ Visceral﻿Vasculature Arteries﻿of﻿Large﻿Intestine﻿ 4 For	arteries	of	rectum	see	also	Plate	376	 Middle colic artery Superior mesenteric artery Transverse Marginal mesocolon artery Straight arteries Jejunal and ileal (arteriae rectae) (intestinal) arteries (Common Marginal artery Inferior portion)  pancreatico- Inferior duodenal Posterior mesenteric arteries artery Anterior Left colic Marginal artery artery Ascending branch Right colic Descending artery branch Marginal Ileocolic artery artery Colic Sigmoid branch arteries Ileal branch Sigmoid mesocolon Marginal artery Anterior cecal artery Posterior cecal artery Appendicular artery Internal iliac artery Straight arteries (arteriae Median sacral artery rectae) (from abdominal aorta) Superior rectal artery Middle rectal artery Branch of superior rectal artery Inferior rectal artery Visceral﻿Vasculature Plate﻿288﻿</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170617T190010Z" creationid="quypc" creationdate="20170617T190010Z">
+        <seg>adcd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Artery to ductus deferens Middle rectal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074020Z" creationid="quypc" creationdate="20170627T074020Z">
+        <seg>Động mạch đến ống dẫn tinh Động mạch trực tràng giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Articular branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050858Z" creationid="quypc" creationdate="20170627T050858Z">
+        <seg>Nhánh khớp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ascending</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155416Z" creationid="quypc" creationdate="20170617T185825Z">
+        <seg>lên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ascending branch Descending branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170617T190000Z" creationid="quypc" creationdate="20170617T190000Z">
+        <seg>adcd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ascending branch, Transverse branch, Descending branch of Lateral circumflex femoral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T052210Z" creationid="quypc" creationdate="20170627T052210Z">
+        <seg>Nhánh lên, Nhánh ngang, nhánh xuống của động mạch mũ đùi ngoài </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ascending lumbar veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161048Z" creationid="quypc" creationdate="20170617T185853Z">
+        <seg>Tĩnh mạch thắt lưng lên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Axillary artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005810Z" creationid="quypc" creationdate="20170627T005810Z">
+        <seg>Động mạch nách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Azygos vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T000116Z" creationid="quypc" creationdate="20170627T000116Z">
+        <seg>Tĩnh mạch đơn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basilic vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002142Z" creationid="quypc" creationdate="20170627T002142Z">
+        <seg>Tĩnh mạch nền</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Biceps femoris muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051045Z" creationid="quypc" creationdate="20170627T051045Z">
+        <seg>Cơ nhị đầu đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Biceps femoris tendon (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T055411Z" creationid="quypc" creationdate="20170627T055411Z">
+        <seg>Gân cơ nhị đầu đùi (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Biceps femoris tendon (cut) Inferior lateral genicular artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061825Z" creationid="quypc" creationdate="20170627T061825Z">
+        <seg>Gân cơ nhị đầu đùi (đã cắt) Động mạch gối dưới ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bicipital aponeurosis</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002947Z" creationid="quypc" creationdate="20170614T151545Z">
+        <seg>Trẽ cân cơ nhị đầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Body of T10 vertebra</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001040Z" creationid="quypc" creationdate="20170627T001040Z">
+        <seg>Thân của đốt sống T10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Brachial artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010042Z" creationid="quypc" creationdate="20170627T010042Z">
+        <seg>Động mạch cánh tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Brachiocephalic trunk</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T142934Z" creationid="quypc" creationdate="20170617T185714Z">
+        <seg>Thân cánh tay đầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Branch of superior rectal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165106Z" creationid="quypc" creationdate="20170617T190005Z">
+        <seg>Nhánh của động mạch trực tràng trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Branches of lateral femoral cutaneous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043515Z" creationid="quypc" creationdate="20170627T043515Z">
+        <seg>Các nhánh của thần kinh bì đùi ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Branches of lateral sural cutaneous nerve (from common fibular [peroneal] nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042211Z" creationid="quypc" creationdate="20170627T042211Z">
+        <seg>Các nhánh của thần kinh bì bắp chân ngoài (từ thần kinh mác chung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Branches of median nerve to 1st and 2nd lumbrical muscles</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T033822Z" creationid="quypc" creationdate="20170627T033822Z">
+        <seg>Nhánh của thần kinh giữa đến cơ giun 1 và 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Branches of palmar digital nerves and arteries to dorsum of middle and distal phalanges</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T033549Z" creationid="quypc" creationdate="20170627T033549Z">
+        <seg>Các nhánh của thần kinh và động mạch gan ngón riêng đến mu của đốt giữa và đốt xa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Branches of posterior femoral cutaneous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043507Z" creationid="quypc" creationdate="20170627T043507Z">
+        <seg>Các nhánh của thần kinh bì đùi sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Branches of proper plantar digital arteries and nerves</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072907Z" creationid="quypc" creationdate="20170627T072907Z">
+        <seg>Nhánh động mạch và thần kinh gan ngón riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Branches of saphenous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043731Z" creationid="quypc" creationdate="20170627T043731Z">
+        <seg>Các nhánh của thần kinh hiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Branches to hypothenar muscles</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035241Z" creationid="quypc" creationdate="20170627T035241Z">
+        <seg>Nhánh cho các cơ mô út</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Broad ligament</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170623T143314Z" creationid="quypc" creationdate="20170623T143314Z">
+        <seg>Dây chằng rộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Broad ligament of uterus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074936Z" creationid="quypc" creationdate="20170623T143401Z">
+        <seg>Dây chằng rộng của tử cung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Calcaneal (Achilles) tendon (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060247Z" creationid="quypc" creationdate="20170627T060247Z">
+        <seg>Gân gót (Achilles) (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Calcaneal branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170623T143500Z" creationid="quypc" creationdate="20170623T143500Z">
+        <seg>abcd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Celiac trunk</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164415Z" creationid="quypc" creationdate="20170617T185937Z">
+        <seg>Động mạch thân tạng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Celiac trunk with common hepatic, left gastric, and splenic arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154154Z" creationid="quypc" creationdate="20170617T185750Z">
+        <seg>Động mạch thân tạng với các nhánh gan chung, vị trái, và lách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cephalic vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002118Z" creationid="quypc" creationdate="20170627T002118Z">
+        <seg>Tĩnh mạch đầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cervix of uterus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170623T143414Z" creationid="quypc" creationdate="20170623T143403Z">
+        <seg>Cổ tử cung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Circumflex fibular branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053048Z" creationid="quypc" creationdate="20170627T053048Z">
+        <seg>Nhánh mũ mác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Circumflex scapular artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010019Z" creationid="quypc" creationdate="20170627T010019Z">
+        <seg>Động mạch mũ vai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Clavicular branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005538Z" creationid="quypc" creationdate="20170627T005538Z">
+        <seg>Nhánh đòn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Colic branch Ileal branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165923Z" creationid="quypc" creationdate="20170626T165923Z">
+        <seg>Nhánh kết tràng Nhánh hồi tràng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Common fibular (peroneal) nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051811Z" creationid="quypc" creationdate="20170627T051811Z">
+        <seg>Thần kinh mác chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Common flexor sheath (ulnar bursa)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035954Z" creationid="quypc" creationdate="20170627T035954Z">
+        <seg>Túi hoạt dịch trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Common hepatic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164111Z" creationid="quypc" creationdate="20170617T185929Z">
+        <seg>Động mạch gan chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Common iliac arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154813Z" creationid="quypc" creationdate="20170617T185819Z">
+        <seg>Động mạch chậu chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Common iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072930Z" creationid="quypc" creationdate="20170627T072930Z">
+        <seg>Động mạch chậu chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Common iliac vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161131Z" creationid="quypc" creationdate="20170617T185854Z">
+        <seg>Tĩnh mạch chậu chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Common interosseous artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T011032Z" creationid="quypc" creationdate="20170627T011032Z">
+        <seg>Động mạch gian cốt chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Common palmar digital arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034839Z" creationid="quypc" creationdate="20170627T034839Z">
+        <seg>Động mạch gan ngón chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Common palmar digital nerves and arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034035Z" creationid="quypc" creationdate="20170627T034035Z">
+        <seg>Động mạch và thần kinh gan ngón chung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Communicating branch of median nerve with ulnar nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034016Z" creationid="quypc" creationdate="20170627T034016Z">
+        <seg>Nhánh ngối của thần kinh giữa với thần kinh trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Conus arteriosus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T145136Z" creationid="quypc" creationdate="20170617T185735Z">
+        <seg>Nón động mạch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Coronary sulcus and right coronary artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T145321Z" creationid="quypc" creationdate="20170617T185737Z">
+        <seg>Rãnh vành và động mạch vành phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Costal cartilages</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T234402Z" creationid="quypc" creationdate="20170626T234402Z">
+        <seg>Sụn sườn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cremasteric branches of inferior epigastric artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155851Z" creationid="quypc" creationdate="20170617T185839Z">
+        <seg>Nhánh cơ bìu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cribriform fascia within saphenous opening</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044616Z" creationid="quypc" creationdate="20170627T044616Z">
+        <seg>Mạc sàng với lỗ tĩnh mạch hiển </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cubital nodes</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T004913Z" creationid="quypc" creationdate="20170627T004913Z">
+        <seg>Các hạch trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cutaneous branches of obturator nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041944Z" creationid="quypc" creationdate="20170627T041944Z">
+        <seg>Nhánh bì của thần kinh bịt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cystic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163539Z" creationid="quypc" creationdate="20170617T185923Z">
+        <seg>Động mạch túi mật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cystic duct</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163600Z" creationid="quypc" creationdate="20170617T185924Z">
+        <seg>Ống túi mật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep circumflex iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051959Z" creationid="quypc" creationdate="20170614T151920Z">
+        <seg>Động mạch mũ chậu sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep circumflex iliac vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161623Z" creationid="quypc" creationdate="20170617T185906Z">
+        <seg>Tĩnh mạch mũ chậu sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep dissection</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045144Z" creationid="quypc" creationdate="20170627T045144Z">
+        <seg>Phẫu tích sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep external pudendal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160314Z" creationid="quypc" creationdate="20170614T151930Z">
+        <seg>Động mạch thẹn ngoài sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep fascia of leg</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042246Z" creationid="quypc" creationdate="20170627T042246Z">
+        <seg>Mạc sâu của cẳng chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep fascia of leg (crural fascia)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044745Z" creationid="quypc" creationdate="20170627T044745Z">
+        <seg>Mạc sâu của cẳng chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep inguinal lymph nodes</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045022Z" creationid="quypc" creationdate="20170627T045022Z">
+        <seg>Các hạch bạch huyết bẹn sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep palmar (arterial) arch and deep branch of ulnar nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034431Z" creationid="quypc" creationdate="20170627T034431Z">
+        <seg>Cung động mạch gay tay sâu và nhánh sâu của thần kinh trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep palmar branch of ulnar artery and deep branch of ulnar nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035200Z" creationid="quypc" creationdate="20170627T035200Z">
+        <seg>Nhánh gan tay sâu của động mạch trụ và nhánh sâu của thần kinh trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep palmar branch of ulnar nerve to 3rd and 4th lumbrical, all interosseous, adductor pollicis, and deep head of flexor pollicis brevis muscles</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035516Z" creationid="quypc" creationdate="20170627T035516Z">
+        <seg>Nhánh gan tay sâu của thần kinh trụ đến cơ giun 3 và 4, tất cả cơ gian cốt, cơ khép ngón cái, và bó sâu của cơ gấp ngón cái ngắn </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deep plantar artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072701Z" creationid="quypc" creationdate="20170627T072701Z">
+        <seg>Động mạch gan chân sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deltoid branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005647Z" creationid="quypc" creationdate="20170627T005647Z">
+        <seg>Nhánh delta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deltopectoral node</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T004737Z" creationid="quypc" creationdate="20170627T004737Z">
+        <seg>Hạch delta ngực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Descending genicular artery Articular branch Saphenous branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053449Z" creationid="quypc" creationdate="20170627T053449Z">
+        <seg>Động mạch gối xuống Nhánh khớp Nhánh hiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diaphragm</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160453Z" creationid="quypc" creationdate="20170617T185845Z">
+        <seg>Cơ hoành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal branch of ulnar nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003736Z" creationid="quypc" creationdate="20170627T003736Z">
+        <seg>Nhánh mu tay của thần kinh trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal digital arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072531Z" creationid="quypc" creationdate="20170627T072531Z">
+        <seg>Các động mạch mu ngón chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal digital branch of deep fibular (peroneal) nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042925Z" creationid="quypc" creationdate="20170627T042925Z">
+        <seg>Nhánh mu ngón chân của thần kinh mác sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal digital branches of deep fibular (peroneal) nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072826Z" creationid="quypc" creationdate="20170627T072826Z">
+        <seg>Các Nhánh mu ngón chân của thần kinh mác sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal digital nerve and vein of medial side of great toe</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042828Z" creationid="quypc" creationdate="20170627T042828Z">
+        <seg>Thần kinh mu ngón chân và tĩnh mạch bên trong ngón cái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal digital nerves</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042504Z" creationid="quypc" creationdate="20170627T042504Z">
+        <seg>Thần kinh mu ngón chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal digital nerves and veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043009Z" creationid="quypc" creationdate="20170627T043009Z">
+        <seg>Thần kinh và tĩnh mạch mu ngón chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal metacarpal veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T004506Z" creationid="quypc" creationdate="20170627T004506Z">
+        <seg>Các tĩnh mạch mu đốt bàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal metatarsal arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072729Z" creationid="quypc" creationdate="20170627T072729Z">
+        <seg>Các động mạch mu đốt bàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal metatarsal veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042855Z" creationid="quypc" creationdate="20170627T042855Z">
+        <seg>Các tĩnh mạch mu đốt bàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal pancreatic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164321Z" creationid="quypc" creationdate="20170617T185935Z">
+        <seg>Động mạch tuỵ lưng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal venous arch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042641Z" creationid="quypc" creationdate="20170627T042641Z">
+        <seg>Cung tĩnh mạch mu chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsal venous network</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T004438Z" creationid="quypc" creationdate="20170627T004438Z">
+        <seg>Cung tĩnh mạch mu tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dorsalis pedis artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072001Z" creationid="quypc" creationdate="20170627T072001Z">
+        <seg>Động mạch mu chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ductus (vas) deferens</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044907Z" creationid="quypc" creationdate="20170627T044907Z">
+        <seg>Ống dẫn tinh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Erector spinae muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001006Z" creationid="quypc" creationdate="20170627T001006Z">
+        <seg>Cơ dựng gai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Esophageal branch of left gastric artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163336Z" creationid="quypc" creationdate="20170617T185922Z">
+        <seg>Nhánh thực quản của động mạch vị trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Esophagogastric junction</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T235038Z" creationid="quypc" creationdate="20170626T235038Z">
+        <seg>Chỗ nối thực quản dạ dày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Esophagus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160619Z" creationid="quypc" creationdate="20170617T185848Z">
+        <seg>Thực quản</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Extensor digitorum brevis and extensor hallucis brevis muscles (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072049Z" creationid="quypc" creationdate="20170627T072049Z">
+        <seg>Các cơ duỗi ngón chân ngắn và duỗi ngón cái ngắn (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Extensor digitorum longus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062310Z" creationid="quypc" creationdate="20170627T062310Z">
+        <seg>Cơ duỗi các ngón chân dài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Extensor digitorum longus tendons (cut) Extensor digitorum brevis tendons (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072449Z" creationid="quypc" creationdate="20170627T072449Z">
+        <seg>Gân cơ duỗi các ngón chân dài (đã cắt) Gân cơ duỗi các ngón chân ngắn (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Extensor hallucis longus tendon (cut) Extensor hallucis brevis tendon (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072808Z" creationid="quypc" creationdate="20170627T072808Z">
+        <seg>Gân duỗi ngón cái dài (đã cắt) Gân duỗi ngón cái ngắn (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>External iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155242Z" creationid="quypc" creationdate="20170614T151920Z">
+        <seg>Động mạch chậu ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>External iliac lymph nodes</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044713Z" creationid="quypc" creationdate="20170627T044713Z">
+        <seg>Các hạch bạch huyết chậu ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>External iliac vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161358Z" creationid="quypc" creationdate="20170617T185902Z">
+        <seg>Tĩnh mạch chậu ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>External pudendal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T162347Z" creationid="quypc" creationdate="20170617T185914Z">
+        <seg>Tĩnh mạch thẹn ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fascia lata</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041838Z" creationid="quypc" creationdate="20170627T041838Z">
+        <seg>Mạc đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Femoral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T052015Z" creationid="quypc" creationdate="20170614T151923Z">
+        <seg>Động mạch đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Femoral artery Ductus deferens and testicular artery (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160051Z" creationid="quypc" creationdate="20170617T185840Z">
+        <seg>Động mạch đùi Ống dẫn tinh và động mạch tinh hoàn (cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Femoral artery and vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045003Z" creationid="quypc" creationdate="20170627T045003Z">
+        <seg>Động mạch và tĩnh mạch đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Femoral artery passing through adductor hiatus within adductor magnus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053515Z" creationid="quypc" creationdate="20170627T053515Z">
+        <seg>Động mạch đùi đi qua vòng gân cơ khép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Femoral branches</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041645Z" creationid="quypc" creationdate="20170627T041645Z">
+        <seg>Nhánh đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Femoral canal (opened)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044944Z" creationid="quypc" creationdate="20170627T044944Z">
+        <seg>Ống đùi (đã mở)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Femoral nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044823Z" creationid="quypc" creationdate="20170627T044823Z">
+        <seg>Thần kinh đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Femoral ring</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044817Z" creationid="quypc" creationdate="20170627T044817Z">
+        <seg>Vòng đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Femoral sheath</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044920Z" creationid="quypc" creationdate="20170627T044920Z">
+        <seg>Bao mạch đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Femoral vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T162017Z" creationid="quypc" creationdate="20170614T151731Z">
+        <seg>Tĩnh mạch đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fibular (peroneal) artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060024Z" creationid="quypc" creationdate="20170614T152000Z">
+        <seg>Động mạch mác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fibular (peroneal) artery (phantom)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053129Z" creationid="quypc" creationdate="20170627T053129Z">
+        <seg>Động mạch mác (vẽ mờ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fibular collateral ligament Lateral patellar retinaculum</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061710Z" creationid="quypc" creationdate="20170627T061710Z">
+        <seg>Dây chằng bên mác Mạc giữ bánh chè ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fibularis (peroneus) brevis muscle and tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062613Z" creationid="quypc" creationdate="20170627T062613Z">
+        <seg>Cơ mác ngắn và gân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fibularis (peroneus) brevis tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072105Z" creationid="quypc" creationdate="20170627T072105Z">
+        <seg>Gân cơ mác ngắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fibularis (peroneus) longus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062301Z" creationid="quypc" creationdate="20170627T062301Z">
+        <seg>Cơ mác dài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fibularis (peroneus) longus tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062753Z" creationid="quypc" creationdate="20170627T062753Z">
+        <seg>Gân cơ mác dài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fibularis (peroneus) longus tendon Fibularis (peroneus) brevis tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060537Z" creationid="quypc" creationdate="20170627T060537Z">
+        <seg>Gân cơ mác dài Gân cơ mác ngắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flexor digitorum longus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060058Z" creationid="quypc" creationdate="20170627T060058Z">
+        <seg>Cơ gấp các ngón chân dài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flexor digitorum longus tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060407Z" creationid="quypc" creationdate="20170627T060407Z">
+        <seg>Gân cơ gấp các ngón chân dài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flexor hallucis longus muscle (retracted)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060137Z" creationid="quypc" creationdate="20170627T060137Z">
+        <seg>Cơ gấp ngón chân cái dài (kéo ra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flexor hallucis longus tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060825Z" creationid="quypc" creationdate="20170627T060825Z">
+        <seg>Gân cơ gấp các ngón chân dài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flexor pollicis brevis muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T040014Z" creationid="quypc" creationdate="20170627T040014Z">
+        <seg>Cơ gấp ngón cái ngắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flexor retinaculum</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060949Z" creationid="quypc" creationdate="20170627T060949Z">
+        <seg>Mạc giữ gân gấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flexor retinaculum (transverse carpal ligament)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035632Z" creationid="quypc" creationdate="20170627T035632Z">
+        <seg>Mạc giữ gân gấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flexor tendons, synovial and fibrous sheaths</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T033714Z" creationid="quypc" creationdate="20170627T033714Z">
+        <seg>Các gân gấp, bao hoạt dịch và bao xơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fundus of stomach</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T235652Z" creationid="quypc" creationdate="20170617T190022Z">
+        <seg>Đáy vị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fundus of uterus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074910Z" creationid="quypc" creationdate="20170623T143345Z">
+        <seg>Đáy tử cung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gastric folds (rugae)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T235557Z" creationid="quypc" creationdate="20170626T235557Z">
+        <seg>Các nếp dạ dày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gastrocnemius muscle (lateral head)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051929Z" creationid="quypc" creationdate="20170627T051929Z">
+        <seg>Cơ bụng chân (đầu ngoài)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gastrocnemius muscle (lateral head) (cut) Fibular collateral ligament</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T055342Z" creationid="quypc" creationdate="20170627T055342Z">
+        <seg>Cơ bụng chân (đầu ngoài) (đã cắt) Dây chằng bên mác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gastrocnemius muscle (medial head)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051845Z" creationid="quypc" creationdate="20170627T051845Z">
+        <seg>Cơ bụng chân (đầu trong)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gastroduodenal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164233Z" creationid="quypc" creationdate="20170617T185932Z">
+        <seg>Động mạch vị tá tràng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Genital branch of genitofemoral nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041601Z" creationid="quypc" creationdate="20170627T041601Z">
+        <seg>Nhánh sinh dục của thần kinh sinh dục đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gluteal aponeurosis and gluteus medius muscle (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045318Z" creationid="quypc" creationdate="20170627T045318Z">
+        <seg>Mạc mông và cơ mông nhỡ (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gluteus maximus muscle (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045435Z" creationid="quypc" creationdate="20170627T045435Z">
+        <seg>Cơ mông lớn (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gluteus medius muscle (cut) Superior gemellus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045728Z" creationid="quypc" creationdate="20170627T045728Z">
+        <seg>Cơ mông nhỡ (đã cắt)  Cơ sinh đôi trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gluteus minimus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045519Z" creationid="quypc" creationdate="20170627T045519Z">
+        <seg>Cơ mông bé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gracilis muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050427Z" creationid="quypc" creationdate="20170627T050427Z">
+        <seg>Cơ thon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Great saphenous vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T040203Z" creationid="quypc" creationdate="20170614T151736Z">
+        <seg>Tĩnh mạch hiển lớn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Greater trochanter of femur</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045919Z" creationid="quypc" creationdate="20170627T045919Z">
+        <seg>Mấu chuyển lớn của xương đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Head of fibula Fibularis (peroneus) longus muscle (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062152Z" creationid="quypc" creationdate="20170627T062152Z">
+        <seg>Chỏm xương mác Cơ mác dài (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hepatic artery proper</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163631Z" creationid="quypc" creationdate="20170617T185925Z">
+        <seg>Động mạch gan riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hepatic portal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163748Z" creationid="quypc" creationdate="20170617T185926Z">
+        <seg>Tĩnh mạch cửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hepatic veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160525Z" creationid="quypc" creationdate="20170617T185846Z">
+        <seg>Tĩnh mạch gan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hilum of left lung</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144505Z" creationid="quypc" creationdate="20170617T185730Z">
+        <seg>Cuống phổi trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hilum of right lung</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144406Z" creationid="quypc" creationdate="20170617T185727Z">
+        <seg>Cuống phổi phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hook of hamate</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035328Z" creationid="quypc" creationdate="20170627T035328Z">
+        <seg>Móc của xương móc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Horizontal group: Superolateral nodes Superomedial nodes</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044441Z" creationid="quypc" creationdate="20170627T044441Z">
+        <seg>Nhóm ngang: Các hạch trên ngoài Trên trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>INFERIOR</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074047Z" creationid="quypc" creationdate="20170627T074047Z">
+        <seg>PHÍA DƯỚI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ileocolic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165626Z" creationid="quypc" creationdate="20170626T165626Z">
+        <seg>Động mạch hồi kết tràng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Iliac crest</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043126Z" creationid="quypc" creationdate="20170627T043126Z">
+        <seg>Mào chậu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ilio-inguinal nerve (scrotal branch) (usually passes through superficial inguinal ring)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041419Z" creationid="quypc" creationdate="20170614T151728Z">
+        <seg>Thần kinh chậu bẹn (nhánh bìu) (thường đi qua lỗ bẹn nông)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Iliolumbar artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155123Z" creationid="quypc" creationdate="20170617T185820Z">
+        <seg>Động mạch chậu thắt lưng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Iliolumbar vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161225Z" creationid="quypc" creationdate="20170617T185856Z">
+        <seg>Tĩnh mạch thắt lưng chậu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Iliotibial tract (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061745Z" creationid="quypc" creationdate="20170627T061745Z">
+        <seg>Dải chậu chày (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior border (acute margin) of heart</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T145045Z" creationid="quypc" creationdate="20170617T185734Z">
+        <seg>Bờ dưới (bờ sắc) của tim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior clunial nerves (S2, 3) (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050218Z" creationid="quypc" creationdate="20170627T050218Z">
+        <seg>Thần kinh bì mông dưới (S2, 3) (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior clunial nerves (from posterior femoral cutaneous nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043406Z" creationid="quypc" creationdate="20170627T043406Z">
+        <seg>Thần kinh bì mông dưới (từ thần kinh bì đùi sau)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior epigastric artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155811Z" creationid="quypc" creationdate="20170614T151921Z">
+        <seg>Động mạch thượng vị dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior epigastric vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161759Z" creationid="quypc" creationdate="20170617T185910Z">
+        <seg>Tĩnh mạch thượng vị dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior epigastric vein (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161749Z" creationid="quypc" creationdate="20170617T185909Z">
+        <seg>Tĩnh mạch thượng vị dưới (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior gemellus muscle Gluteus maximus muscle (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050147Z" creationid="quypc" creationdate="20170627T050147Z">
+        <seg>Cơ sinh đôi dưới Cơ mông lớn (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior gluteal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160123Z" creationid="quypc" creationdate="20170617T185841Z">
+        <seg>Động mạch mông dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior gluteal artery and nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045537Z" creationid="quypc" creationdate="20170627T045537Z">
+        <seg>Động mạch và thần kinh mông dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior gluteal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161245Z" creationid="quypc" creationdate="20170617T185858Z">
+        <seg>Tĩnh mạch mông dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior lateral genicular artery (partially in phantom)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053318Z" creationid="quypc" creationdate="20170627T053318Z">
+        <seg>Động mạch gối dưới ngoài(vẽ mờ một phần)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior lateral genicular artery Head of fibula</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T055508Z" creationid="quypc" creationdate="20170614T151948Z">
+        <seg>Động mạch gối dưới ngoài Chỏm xương mác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior lobe of left lung in costodiaphragmatic recess</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T000836Z" creationid="quypc" creationdate="20170627T000836Z">
+        <seg>Thuỳ dưới của phổi trái trong ngách sườn hoành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior lobe of right lung in costodiaphragmatic recess</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T000845Z" creationid="quypc" creationdate="20170627T000845Z">
+        <seg>Thuỳ dưới của phổi phải trong ngách sườn hoành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior medial genicular artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T055715Z" creationid="quypc" creationdate="20170614T151951Z">
+        <seg>Động mạch gối dưới trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior medial genicular artery (partially in phantom)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053238Z" creationid="quypc" creationdate="20170627T053238Z">
+        <seg>Động mạch gối dưới trong (vẽ mờ một phần)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior mesenteric artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154042Z" creationid="quypc" creationdate="20170617T185749Z">
+        <seg>Động mạch mạc treo tràng dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior pancreatic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164551Z" creationid="quypc" creationdate="20170617T185941Z">
+        <seg>Động mạch tuỵ dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior pancreatico- duodenal arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164648Z" creationid="quypc" creationdate="20170617T185944Z">
+        <seg>Động mạch tá tuỵ dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior phrenic arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T153504Z" creationid="quypc" creationdate="20170617T185743Z">
+        <seg>Các động mạch hoành dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior phrenic veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160601Z" creationid="quypc" creationdate="20170617T185847Z">
+        <seg>Tĩnh mạch hoành dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior rectal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165115Z" creationid="quypc" creationdate="20170617T190006Z">
+        <seg>Động mạch trực tràng dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior suprarenal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T153832Z" creationid="quypc" creationdate="20170617T185746Z">
+        <seg>Động mạch thượng thận dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior ulnar collateral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010651Z" creationid="quypc" creationdate="20170627T010651Z">
+        <seg>Động mạch bên trụ dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior vena cava</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160611Z" creationid="quypc" creationdate="20170617T185847Z">
+        <seg>Tĩnh mạch chủ dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior vesical artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073942Z" creationid="quypc" creationdate="20170627T073942Z">
+        <seg>Động mạch bàng quang dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inferior vesical artery and artery to ductus deferens</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170617T185826Z" creationid="quypc" creationdate="20170617T185826Z">
+        <seg>adcd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Infrapatellar branch of saphenous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042036Z" creationid="quypc" creationdate="20170627T042036Z">
+        <seg>Nhánh dưới bánh chè của thần kinh hiển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Infrapatellar branch of saphenous nerve (cut) Inferior medial genicular artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062012Z" creationid="quypc" creationdate="20170627T062012Z">
+        <seg>Nhánh dưới bánh chè của thần kinh hiển (đã cắt) Động mạch gối dưới trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Infundibulum</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074643Z" creationid="quypc" creationdate="20170623T143303Z">
+        <seg>Phễu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inguinal ligament (Poupart’s)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T040714Z" creationid="quypc" creationdate="20170627T040714Z">
+        <seg>Dây chằng bẹn (Poupart’s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Insertion of sartorius tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062352Z" creationid="quypc" creationdate="20170627T062352Z">
+        <seg>Bám tận của gân cơ may</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Intercapitular veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T004347Z" creationid="quypc" creationdate="20170627T004347Z">
+        <seg>Tĩnh mạch kẽ ngón tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Intermediate dorsal cutaneous branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042432Z" creationid="quypc" creationdate="20170627T042432Z">
+        <seg>Nhánh bì mu chân ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Internal iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155133Z" creationid="quypc" creationdate="20170617T185821Z">
+        <seg>Động mạch chậu trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Internal iliac artery External iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073002Z" creationid="quypc" creationdate="20170623T143230Z">
+        <seg>Động mạch chậu trong Động mạch chậu ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Internal iliac vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161215Z" creationid="quypc" creationdate="20170617T185856Z">
+        <seg>Tĩnh mạch chậu trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Internal pudendal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155701Z" creationid="quypc" creationdate="20170617T185836Z">
+        <seg>Động mạch thẹn trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Internal pudendal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161347Z" creationid="quypc" creationdate="20170617T185901Z">
+        <seg>Tĩnh mạch thẹn trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Internal thoracic artery and vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T142856Z" creationid="quypc" creationdate="20170617T185714Z">
+        <seg>Động mạch và tĩnh mạch ngực trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Interosseous membrane</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053111Z" creationid="quypc" creationdate="20170627T053111Z">
+        <seg>Màng gian cốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ischial tuberosity</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050053Z" creationid="quypc" creationdate="20170627T050053Z">
+        <seg>Ụ ngồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Isthmus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074524Z" creationid="quypc" creationdate="20170627T074524Z">
+        <seg>Eo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Jejunal and ileal (intestinal) arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165813Z" creationid="quypc" creationdate="20170626T165813Z">
+        <seg>Động mạch hỗng tràng và hồi tràng (ruột non)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Jejunal and ileal arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165410Z" creationid="quypc" creationdate="20170626T165410Z">
+        <seg>Động mạch hỗng tràng và hồi tràng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lacunar ligament (Gimbernat’s)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044845Z" creationid="quypc" creationdate="20170627T044845Z">
+        <seg>Dây chằng khuyết (Gimbernat’s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155136Z" creationid="quypc" creationdate="20170617T185821Z">
+        <seg>Bên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral antebrachial cutaneous nerve (from musculo- cutaneous nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002546Z" creationid="quypc" creationdate="20170614T151541Z">
+        <seg>Thần kinh bì cẳng tay ngoài (từ thần kinh cơ bì)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral axillary nodes (along axillary vein)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T004838Z" creationid="quypc" creationdate="20170627T004838Z">
+        <seg>Các hạch nách ngoài (dọc theo tĩnh mạch nách)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral calcaneal branch of sural nerve Inferior fibular (peroneal) retinaculum Fibularis (peroneus) brevis tendon Fibularis (peroneus) longus tendon Flexor digitorum longus tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061307Z" creationid="quypc" creationdate="20170627T061307Z">
+        <seg>Nhánh gót ngoài của thần kinh bắp chân Mạc giữ gân cơ mác dưới Gân cơ mác ngắn Gân cơ mác dài Gân cơ gấp các ngón chân dài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral calcaneal branches of sural nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043905Z" creationid="quypc" creationdate="20170627T043905Z">
+        <seg>Các nhánh gót ngoài của thần kinh bắp chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral cutaneous</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T040451Z" creationid="quypc" creationdate="20170627T040451Z">
+        <seg>Nhánh bì ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral cutaneous branch of iliohypogastric nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043115Z" creationid="quypc" creationdate="20170627T043115Z">
+        <seg>Nhánh bì ngoài của thần kinh chậu hạ vị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral dorsal cutaneous nerve (continuation of sural nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043940Z" creationid="quypc" creationdate="20170627T043940Z">
+        <seg>Thần kinh bì mu chân ngoài (nối tiếp thần kinh bắp chân)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral dorsal digital nerve and vein of 5th toe</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042729Z" creationid="quypc" creationdate="20170627T042729Z">
+        <seg>Thần kinh mu ngón chân ngoài và tĩnh mạch của ngón 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral femoral cutaneous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041516Z" creationid="quypc" creationdate="20170627T041516Z">
+        <seg>Thần kinh bì đùi ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral malleolus and arterial network</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062958Z" creationid="quypc" creationdate="20170627T062958Z">
+        <seg>Mắt cá ngoài và đám rối động mạch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral malleolus and posterior lateral malleolar branch of fibular (peroneal) artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060643Z" creationid="quypc" creationdate="20170627T060643Z">
+        <seg>Mắt cá ngoài và nhánh mắt cá ngoài sau của động mạch mác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral plantar artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T075118Z" creationid="quypc" creationdate="20170623T143458Z">
+        <seg>Động mạch gan chân ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral plantar artery and nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060900Z" creationid="quypc" creationdate="20170627T060900Z">
+        <seg>Động mạch và thần kinh gan chân ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral sacral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073014Z" creationid="quypc" creationdate="20170623T143231Z">
+        <seg>Động mạch cùng bên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral sacral veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161545Z" creationid="quypc" creationdate="20170617T185905Z">
+        <seg>Tĩnh mạch cùng bên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral sural cutaneous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051946Z" creationid="quypc" creationdate="20170627T051946Z">
+        <seg>Thần kinh bì bắp chân ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral sural cutaneous nerve (from common fibular [peroneal] nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043610Z" creationid="quypc" creationdate="20170627T043610Z">
+        <seg>Thần kinh bì bắp chân ngoài (từ thần kinh mác chung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral tarsal artery and lateral</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T071444Z" creationid="quypc" creationdate="20170627T071444Z">
+        <seg>Động mạch cổ chân ngoài và</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lateral thoracic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005834Z" creationid="quypc" creationdate="20170627T005834Z">
+        <seg>Động mạch ngực ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Latissimus dorsi muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T000251Z" creationid="quypc" creationdate="20170627T000251Z">
+        <seg>Cơ lưng rộng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left 2nd lumbar vein and communication to ascending lumbar vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001844Z" creationid="quypc" creationdate="20170627T001844Z">
+        <seg>Tĩnh mạch thắt lưng thứ 2 trái và chỗ thông nối với tĩnh mạch thắt lưng lên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left auricle (atrial</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144847Z" creationid="quypc" creationdate="20170617T185733Z">
+        <seg>Tiểu nhĩ trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left border (obtuse margin) of heart</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T152202Z" creationid="quypc" creationdate="20170617T185739Z">
+        <seg>Bờ trái (bờ tù) của tim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left brachiocephalic vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T142941Z" creationid="quypc" creationdate="20170617T185715Z">
+        <seg>Tĩnh mạch cánh tay đầu trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left colic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154455Z" creationid="quypc" creationdate="20170617T185754Z">
+        <seg>Động mạch kết tràng trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left common carotid artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T143134Z" creationid="quypc" creationdate="20170617T185716Z">
+        <seg>Động mạch cảnh chung trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left crus of diaphragm</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T235826Z" creationid="quypc" creationdate="20170617T190025Z">
+        <seg>Trụ trái của cơ hoành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left crus of diaphragm (forming left boundary of esophageal hiatus)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T235458Z" creationid="quypc" creationdate="20170617T190020Z">
+        <seg>Trụ trái của cơ hoành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left external iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074503Z" creationid="quypc" creationdate="20170627T074503Z">
+        <seg>Động mạch chậu ngoài trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left gastric artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163304Z" creationid="quypc" creationdate="20170617T185920Z">
+        <seg>Động mạch vị trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left gastro-omental (gastro-epiploic) artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164257Z" creationid="quypc" creationdate="20170617T185934Z">
+        <seg>Động mạch vị mạc nối trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left hepatic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163229Z" creationid="quypc" creationdate="20170617T185917Z">
+        <seg>Động mạch gan trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left inferior phrenic vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001146Z" creationid="quypc" creationdate="20170617T190032Z">
+        <seg>Tĩnh mạch hoành dưới trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left inferior suprarenal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001302Z" creationid="quypc" creationdate="20170617T190037Z">
+        <seg>Động mạch thượng thận dưới trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left internal jugular vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T143239Z" creationid="quypc" creationdate="20170617T185717Z">
+        <seg>Tĩnh mạch cảnh trong trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left middle suprarenal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001221Z" creationid="quypc" creationdate="20170617T190034Z">
+        <seg>Động mạch thượng thận giữa trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left ovarian</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074538Z" creationid="quypc" creationdate="20170623T143252Z">
+        <seg>Buồng trứng trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left ovary</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074730Z" creationid="quypc" creationdate="20170623T143306Z">
+        <seg>Buồng trứng trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left pulmonary artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144032Z" creationid="quypc" creationdate="20170617T185721Z">
+        <seg>Động mạch phổi trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left recurrent laryngeal nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T143935Z" creationid="quypc" creationdate="20170617T185720Z">
+        <seg>Thần kinh thanh quản quặt ngược trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left renal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T153912Z" creationid="quypc" creationdate="20170617T185747Z">
+        <seg>Động mạch thận trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left renal artery and vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001348Z" creationid="quypc" creationdate="20170617T190039Z">
+        <seg>Động mạch và tĩnh mạch thận trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left renal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160916Z" creationid="quypc" creationdate="20170617T185851Z">
+        <seg>Tĩnh mạch thận trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left superior pulmonary vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144313Z" creationid="quypc" creationdate="20170617T185726Z">
+        <seg>Tĩnh mạch phổi trên trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left superior suprarenal arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001204Z" creationid="quypc" creationdate="20170617T190033Z">
+        <seg>Động mạch thượng thận trên trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left suprarenal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001241Z" creationid="quypc" creationdate="20170617T190035Z">
+        <seg>Tĩnh mạch thượng thận trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left suprarenal veins and anastomosis with inferior phrenic vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160827Z" creationid="quypc" creationdate="20170617T185849Z">
+        <seg>Tĩnh mạch thượng thận trái và vòng nối với tĩnh mạch hoành dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left testicular (ovarian) artery and vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001720Z" creationid="quypc" creationdate="20170617T190041Z">
+        <seg>Động mạch và tĩnh mạch tinh hoàn (buồng trứng) trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left ureter</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074842Z" creationid="quypc" creationdate="20170623T143322Z">
+        <seg>Niệu quản trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left vagus nerve (X)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T143317Z" creationid="quypc" creationdate="20170617T185718Z">
+        <seg>Thần kinh lang thang trái (X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left ventricle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T152212Z" creationid="quypc" creationdate="20170617T185740Z">
+        <seg>Tâm thất trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Level of lower margin of teres major muscle is landmark for name change from axillary to brachial artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010241Z" creationid="quypc" creationdate="20170627T010241Z">
+        <seg>Mức bờ dưới cơ tròn lớn là điểm mốc đổi tên động mạch nách thành động mạch cánh tay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ligament of ovary</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074710Z" creationid="quypc" creationdate="20170623T143304Z">
+        <seg>Dây chằng riêng buồng trứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ligamentum arteriosum</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T143359Z" creationid="quypc" creationdate="20170617T185718Z">
+        <seg>Dây chằng động mạch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Liver</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T235042Z" creationid="quypc" creationdate="20170617T190019Z">
+        <seg>Gan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Long head (retracted) Short head</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051035Z" creationid="quypc" creationdate="20170627T051035Z">
+        <seg>Đầu dài (kéo ra) Đầu ngắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Marginal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165739Z" creationid="quypc" creationdate="20170626T165739Z">
+        <seg>Động mạch bờ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial View</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074058Z" creationid="quypc" creationdate="20170627T074058Z">
+        <seg>Nhìn trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial branch of deep fibular (peroneal) nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072132Z" creationid="quypc" creationdate="20170627T072132Z">
+        <seg>Nhánh trong của thần kinh mác sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial calcaneal branches of posterior tibial artery and tibial nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060932Z" creationid="quypc" creationdate="20170627T060932Z">
+        <seg>Nhánh gót trong của động mạch chày sau và thần kinh chày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial calcaneal branches of tibial nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044001Z" creationid="quypc" creationdate="20170627T044001Z">
+        <seg>Các nhánh gót trong của thần kinh chày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial circumflex femoral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050401Z" creationid="quypc" creationdate="20170627T050401Z">
+        <seg>Động mạch mũ đùi trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial clunial nerves (S1, 2, 3)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045506Z" creationid="quypc" creationdate="20170627T045506Z">
+        <seg>Thần kinh bì mông giữa (S1, 2, 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial clunial nerves (from</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043210Z" creationid="quypc" creationdate="20170627T043210Z">
+        <seg>Thần kinh bì mông giữa (từ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial dorsal cutaneous branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042345Z" creationid="quypc" creationdate="20170627T042345Z">
+        <seg>Nhánh bì mu chân trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial malleolus and arterial network</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062946Z" creationid="quypc" creationdate="20170627T062946Z">
+        <seg>Mắt cá trong và đám rối động mạch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial malleolus and posterior medial malleolar branch of posterior tibial artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061045Z" creationid="quypc" creationdate="20170627T061045Z">
+        <seg>Mắt cá trong và nhánh mắt cá trong của động mạch chày sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial patellar retinaculum</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061922Z" creationid="quypc" creationdate="20170627T061922Z">
+        <seg>Mạc giữ bánh chè trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial plantar artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T075054Z" creationid="quypc" creationdate="20170623T143450Z">
+        <seg>Động mạch gan chân trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial plantar artery and nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060906Z" creationid="quypc" creationdate="20170627T060906Z">
+        <seg>Động mạch và thần kinh gan chân trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial plantar nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T075108Z" creationid="quypc" creationdate="20170623T143456Z">
+        <seg>Thần kinh gan chân trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial sural cutaneous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051939Z" creationid="quypc" creationdate="20170627T051939Z">
+        <seg>Thần kinh bì bắp chân trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial sural cutaneous nerve (from tibial nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043813Z" creationid="quypc" creationdate="20170627T043813Z">
+        <seg>Thần kinh bì bắp chân trong (từ thần kinh chày)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial tarsal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T071606Z" creationid="quypc" creationdate="20170627T071606Z">
+        <seg>Động mạch cổ chân trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medial umbilical ligament (occluded part of umbilical artery)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160305Z" creationid="quypc" creationdate="20170617T185843Z">
+        <seg>Dây chằng rốn trong (động mạch rốn đã bít)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Median antebrachial vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003223Z" creationid="quypc" creationdate="20170627T003223Z">
+        <seg>Tĩnh mạch cẳng tay giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Median basilic vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002839Z" creationid="quypc" creationdate="20170614T151544Z">
+        <seg>Tĩnh mạch giữa nền</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Median cephalic vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003012Z" creationid="quypc" creationdate="20170614T151546Z">
+        <seg>Tĩnh mạch giữa đầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Median cubital vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T004944Z" creationid="quypc" creationdate="20170627T004944Z">
+        <seg>Tĩnh mạch giữa trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Median nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034212Z" creationid="quypc" creationdate="20170627T034212Z">
+        <seg>Thần kinh giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Median nerve and palmar branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035548Z" creationid="quypc" creationdate="20170627T035548Z">
+        <seg>Thần kinh giữa và nhánh gan tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Median sacral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154926Z" creationid="quypc" creationdate="20170617T185820Z">
+        <seg>Động mạch cùng giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Median sacral artery (from abdominal aorta)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165042Z" creationid="quypc" creationdate="20170617T190004Z">
+        <seg>Động mạch cùng giữa (từ động mạch chủ bụng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Median sacral vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161433Z" creationid="quypc" creationdate="20170617T185903Z">
+        <seg>Tĩnh mạch cùng giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mediastinal part of parietal pleura</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144621Z" creationid="quypc" creationdate="20170617T185731Z">
+        <seg>Màng phổi trung thất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mediastinal pleura</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144434Z" creationid="quypc" creationdate="20170617T185728Z">
+        <seg>Màng phổi trung thất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mesosalpinx</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074613Z" creationid="quypc" creationdate="20170627T074613Z">
+        <seg>Mạc treo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Middle colic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164840Z" creationid="quypc" creationdate="20170617T185952Z">
+        <seg>Động mạch kết tràng giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Middle colic artery (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164707Z" creationid="quypc" creationdate="20170617T185944Z">
+        <seg>Động mạch kết tràng giữa (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Middle collateral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010629Z" creationid="quypc" creationdate="20170627T010629Z">
+        <seg>Động mạch bên giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Middle genicular artery (phantom)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053334Z" creationid="quypc" creationdate="20170627T053334Z">
+        <seg>Động mạch gối giữa (vẽ mờ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Middle rectal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155502Z" creationid="quypc" creationdate="20170617T185828Z">
+        <seg>Động mạch trực tràng giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Middle rectal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161409Z" creationid="quypc" creationdate="20170617T185903Z">
+        <seg>Tĩnh mạch trực tràng giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Middle suprarenal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T153653Z" creationid="quypc" creationdate="20170617T185745Z">
+        <seg>Động mạch thượng thận giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Muscular branches</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T052241Z" creationid="quypc" creationdate="20170627T052241Z">
+        <seg>Các nhánh cơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Muscular branches of sciatic nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050600Z" creationid="quypc" creationdate="20170627T050600Z">
+        <seg>Các nhánh cơ của thần kinh ngồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nerve to obturator internus (and superior gemellus)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045832Z" creationid="quypc" creationdate="20170627T045832Z">
+        <seg>Thần kinh cho cơ bịt trong (và sinh đôi trên)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note: Arrows indicate direction of drainage.</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005224Z" creationid="quypc" creationdate="20170614T151608Z">
+        <seg>Chú ý: Mũi tên chỉ hướng dẫn lưu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note: In 70% of cases, a median cubital</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003307Z" creationid="quypc" creationdate="20170627T003307Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Obturator artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155311Z" creationid="quypc" creationdate="20170614T151930Z">
+        <seg>Động mạch bịt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Obturator internus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045959Z" creationid="quypc" creationdate="20170627T045959Z">
+        <seg>Cơ bịt trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Obturator nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074544Z" creationid="quypc" creationdate="20170623T143258Z">
+        <seg>Thần kinh bịt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Obturator vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161648Z" creationid="quypc" creationdate="20170617T185908Z">
+        <seg>Tĩnh mạch bịt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Opponens pollicis muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035746Z" creationid="quypc" creationdate="20170627T035746Z">
+        <seg>Cơ đối ngón cái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ovarian (testicular) veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160932Z" creationid="quypc" creationdate="20170617T185852Z">
+        <seg>Tĩnh mạch buồng trứng (tinh hoàn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ovarian (testicular) veins and ureter (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161328Z" creationid="quypc" creationdate="20170617T185859Z">
+        <seg>Tĩnh mạch buồng trứng (tinh hoàn) và niệu quản (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>POSTERIOR</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073904Z" creationid="quypc" creationdate="20170627T073904Z">
+        <seg>PHÍA SAU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Palmar aponeurosis</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003437Z" creationid="quypc" creationdate="20170627T003437Z">
+        <seg>Cân gan tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Palmar branch of median nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T004218Z" creationid="quypc" creationdate="20170627T004218Z">
+        <seg>Nhánh gan tay của thần kinh giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Palmar branch of ulnar nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003723Z" creationid="quypc" creationdate="20170627T003723Z">
+        <seg>Nhánh gan tay của thần kinh trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Palmar carpal branches of radial and ulnar arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035052Z" creationid="quypc" creationdate="20170627T035052Z">
+        <seg>Nhánh gan cổ tay của động mạch quay và động mạch trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Palmar carpal ligament (continuous with extensor retinaculum)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T004100Z" creationid="quypc" creationdate="20170627T004100Z">
+        <seg>Dây chằng gan cổ tay (liên tục với mạc giữ gân duỗi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Palmar digital nerves and palmar digital veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T004613Z" creationid="quypc" creationdate="20170627T004613Z">
+        <seg>Thần kinh gan ngón riêng và tĩnh mạch gan ngón tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Patellar anastomosis</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053353Z" creationid="quypc" creationdate="20170627T053353Z">
+        <seg>Đám rối bánh chè</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Patellar ligament</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062035Z" creationid="quypc" creationdate="20170627T062035Z">
+        <seg>Dây chằng bánh chè</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Patellar nerve plexus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042007Z" creationid="quypc" creationdate="20170627T042007Z">
+        <seg>Đám rối thần kinh bánh chè</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pectoral branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005550Z" creationid="quypc" creationdate="20170627T005550Z">
+        <seg>Nhánh ngực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perforating branch Communicating branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060316Z" creationid="quypc" creationdate="20170627T060316Z">
+        <seg>Nhánh xuyên Nhánh nối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perforating branch of fibular (peroneal) artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062847Z" creationid="quypc" creationdate="20170627T062847Z">
+        <seg>Nhánh xuyên của động mạch mác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perforating branches</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T052427Z" creationid="quypc" creationdate="20170627T052427Z">
+        <seg>Nhánh xuyên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perforating cutaneous nerve (from dorsal rami of S1, 2, 3)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043453Z" creationid="quypc" creationdate="20170627T043453Z">
+        <seg>Thần kinh bì xuyên (từ nhánh sau S1, 2, 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Perforating veins</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003122Z" creationid="quypc" creationdate="20170614T151548Z">
+        <seg>Các tĩnh mạch xuyên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pericardium (cut edge)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144457Z" creationid="quypc" creationdate="20170617T185729Z">
+        <seg>Màng ngoài tim (bờ cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pericardium (cut edge) at site of reflection from great vessels</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T142044Z" creationid="quypc" creationdate="20170626T142044Z">
+        <seg>Màng ngoài tim (bờ cắt) ở chỗ quặt lại tại các mạch lớn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Peritoneum</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074337Z" creationid="quypc" creationdate="20170627T074337Z">
+        <seg>Phúc mạc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phrenic nerve Subclavian artery and vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T142758Z" creationid="quypc" creationdate="20170617T185713Z">
+        <seg>Thần kinh hoành Động mạch và tĩnh mạch dưới đòn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phrenic nerve and pericardiacophrenic artery and vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T143615Z" creationid="quypc" creationdate="20170617T185719Z">
+        <seg>Thần kinh hoành và động mạch và tĩnh mạch hoành màng ngoài tim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piriformis muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045653Z" creationid="quypc" creationdate="20170627T045653Z">
+        <seg>Cơ hình lê</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pisiform</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035114Z" creationid="quypc" creationdate="20170627T035114Z">
+        <seg>Xương đậu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Plantar Views</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T075128Z" creationid="quypc" creationdate="20170623T143503Z">
+        <seg>Nhìn từ gan chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Plantar cutaneous branches of lateral plantar nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044238Z" creationid="quypc" creationdate="20170627T044238Z">
+        <seg>Các nhánh bì gan chân của thần kinh gan chân ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Plantar cutaneous branches of medial plantar nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044222Z" creationid="quypc" creationdate="20170627T044112Z">
+        <seg>Các nhánh bì gan chân của thần kinh gan chân trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Plantaris muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051917Z" creationid="quypc" creationdate="20170627T051917Z">
+        <seg>Cơ gan chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Popliteal artery (phantom)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053403Z" creationid="quypc" creationdate="20170627T053403Z">
+        <seg>Động mạch kheo (vẽ mờ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Popliteal artery and tibial nerve Tibial collateral ligament Semimembranosus tendon (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T055826Z" creationid="quypc" creationdate="20170627T055826Z">
+        <seg>Động mạch kheo và thần kinh chày Dây chằng bên chày Gân cơ bán màng (đã cắt) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Popliteal lymph nodes</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044346Z" creationid="quypc" creationdate="20170627T044346Z">
+        <seg>Các hạch bạch huyết kheo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Popliteal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044315Z" creationid="quypc" creationdate="20170627T044315Z">
+        <seg>Tĩnh mạch kheo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Popliteal vein and artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051007Z" creationid="quypc" creationdate="20170627T051007Z">
+        <seg>Động mạch và tĩnh mạch kheo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Popliteus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T055852Z" creationid="quypc" creationdate="20170627T055852Z">
+        <seg>Cơ kheo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior (dorsal) view</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002057Z" creationid="quypc" creationdate="20170627T002057Z">
+        <seg>Nhìn sau (mặt mu tay)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior Anterior</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165700Z" creationid="quypc" creationdate="20170626T165700Z">
+        <seg>Sau Trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior View</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170623T143339Z" creationid="quypc" creationdate="20170623T143339Z">
+        <seg>Nhìn phía sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior antebrachial</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002231Z" creationid="quypc" creationdate="20170627T002231Z">
+        <seg>Cẳng tay sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior antebrachial cutaneous nerve (from radial nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002630Z" creationid="quypc" creationdate="20170614T151542Z">
+        <seg>Thần kinh bì cẳng tay sau (từ thần kinh quay)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior branch of lateral antebrachial cutaneous nerve (from musculocu- taneous nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003040Z" creationid="quypc" creationdate="20170614T151547Z">
+        <seg>Nhánh sau của thần kinh bì cẳng tay ngoài (từ thần kinh cơ bì)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior branch of medial</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002642Z" creationid="quypc" creationdate="20170614T151543Z">
+        <seg>Nhánh sau của </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior branch of medial antebrachial cutaneous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002343Z" creationid="quypc" creationdate="20170614T151540Z">
+        <seg>Nhánh sau của thần kinh bì cẳng tay trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior cecal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165538Z" creationid="quypc" creationdate="20170626T165538Z">
+        <seg>Động mạch manh tràng sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior circumflex humeral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005912Z" creationid="quypc" creationdate="20170627T005912Z">
+        <seg>Động mạch mũ cánh tay sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior division of internal iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073815Z" creationid="quypc" creationdate="20170627T073815Z">
+        <seg>Phân nhánh sau của động mạch chậu trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior femoral cutaneous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045840Z" creationid="quypc" creationdate="20170627T045840Z">
+        <seg>Thần kinh bì đùi sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior interosseous artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010949Z" creationid="quypc" creationdate="20170627T010949Z">
+        <seg>Động mạch gian cốt sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior perforating branches from deep plantar arch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T072238Z" creationid="quypc" creationdate="20170627T072238Z">
+        <seg>Các nhánh xuyên sau từ cung động mạch gan chân sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior superior pancreaticoduodenal  artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164515Z" creationid="quypc" creationdate="20170617T185939Z">
+        <seg>Động mạch tá tuỵ sau trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior superior,</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164402Z" creationid="quypc" creationdate="20170617T185933Z">
+        <seg>Sau trên,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior tibial artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060016Z" creationid="quypc" creationdate="20170614T151958Z">
+        <seg>Động mạch chày sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior tibial artery (phantom)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T052812Z" creationid="quypc" creationdate="20170627T052812Z">
+        <seg>Động mạch chày sau (vẽ mờ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior tibial recurrent artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T055905Z" creationid="quypc" creationdate="20170627T055905Z">
+        <seg>Động mạch quặt ngược chày sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior tibial recurrent artery (phantom)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T053149Z" creationid="quypc" creationdate="20170627T053149Z">
+        <seg>Động mạch quặt ngược chày sau (vẽ mờ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Posterior ulnar recurrent artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010918Z" creationid="quypc" creationdate="20170614T151633Z">
+        <seg>Động mạch quặt ngược trụ sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Princeps pollicis artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034514Z" creationid="quypc" creationdate="20170627T034514Z">
+        <seg>Động mạch ngón cái chính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Profunda brachii (deep brachial) artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010149Z" creationid="quypc" creationdate="20170614T151627Z">
+        <seg>Động mạch cánh tay sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Profunda femoris (deep femoral) artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T052407Z" creationid="quypc" creationdate="20170627T052407Z">
+        <seg>Động mạch đùi sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Proper digital arteries and nerves of thumb</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034600Z" creationid="quypc" creationdate="20170627T034600Z">
+        <seg>Động mạch và thần kinh riêng ngón cái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Proper palmar digital arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034900Z" creationid="quypc" creationdate="20170627T034900Z">
+        <seg>Động mạch gan ngón riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Proper palmar digital nerves and arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T033939Z" creationid="quypc" creationdate="20170627T033939Z">
+        <seg>Động mạch và thần kinh gan ngón riêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Proper palmar digital nerves and arteries to thumb</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T040127Z" creationid="quypc" creationdate="20170627T040127Z">
+        <seg>Thần kinh và động mạch gan ngón riêng ngón cái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Proper palmar digital nerves of median nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034922Z" creationid="quypc" creationdate="20170627T034922Z">
+        <seg>Các thần kinh gan ngón riêng của thần kinh giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Proper palmar digital nerves of ulnar nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035535Z" creationid="quypc" creationdate="20170627T035535Z">
+        <seg>Thần kinh gan ngón riêng của thần kinh trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Proper palmar metacarpal arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034800Z" creationid="quypc" creationdate="20170627T034800Z">
+        <seg>Các động mạch gan cốt bàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Prostatic branch of inferior vesical artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074039Z" creationid="quypc" creationdate="20170627T074039Z">
+        <seg>Nhánh tuyến tiền liệt của động mạch bàng quang dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Psoas major muscle (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154338Z" creationid="quypc" creationdate="20170617T185753Z">
+        <seg>Cơ thắt lưng lớn (cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pubic (obturator anastomotic) vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161937Z" creationid="quypc" creationdate="20170617T185912Z">
+        <seg>Tĩnh mạch mu (nhánh nối bịt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pubic,</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155845Z" creationid="quypc" creationdate="20170617T185838Z">
+        <seg>Nhánh mu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pudendal nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045635Z" creationid="quypc" creationdate="20170627T045635Z">
+        <seg>Thần kinh thẹn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pulmonary trunk</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144011Z" creationid="quypc" creationdate="20170617T185721Z">
+        <seg>Thân động mạch phổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quadratus femoris muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050200Z" creationid="quypc" creationdate="20170627T050200Z">
+        <seg>Cơ vuông đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quadratus lumborum muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154402Z" creationid="quypc" creationdate="20170617T185754Z">
+        <seg>Cơ vuông thắt lưng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quadriceps femoris tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061524Z" creationid="quypc" creationdate="20170627T061524Z">
+        <seg>Gân cơ tứ đầu đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Radial artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T011015Z" creationid="quypc" creationdate="20170627T011015Z">
+        <seg>Động mạch quay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Radial collateral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010603Z" creationid="quypc" creationdate="20170627T010603Z">
+        <seg>Động mạch bên quay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Radial recurrent artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010733Z" creationid="quypc" creationdate="20170627T010733Z">
+        <seg>Động mạch quặt ngược quay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Radialis indicis artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034630Z" creationid="quypc" creationdate="20170627T034630Z">
+        <seg>Động mạch quay ngón trỏ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rectal venous plexus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161904Z" creationid="quypc" creationdate="20170617T185911Z">
+        <seg>Đám rối trực tràng quanh cơ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rectus abdominis muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T234520Z" creationid="quypc" creationdate="20170626T234520Z">
+        <seg>Cơ thẳng bụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Recurrent (motor) branch of median nerve to thenar muscles</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035925Z" creationid="quypc" creationdate="20170627T035925Z">
+        <seg>Nhánh quặt ngược (vận động) của thần kinh giữa đến các cơ mô cái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Recurrent branch of left inferior phrenic artery to esophagus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163357Z" creationid="quypc" creationdate="20170617T185922Z">
+        <seg>Nhánh quặt ngược của động mạch hoành dưới trái đến thực quản</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Recurrent branch to esophagus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T153545Z" creationid="quypc" creationdate="20170617T185743Z">
+        <seg>Nhánh quặt ngược cho thực quản</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Recurrent interosseous artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010819Z" creationid="quypc" creationdate="20170627T010819Z">
+        <seg>Động mạch quặt ngược gian cốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144036Z" creationid="quypc" creationdate="20170617T185722Z">
+        <seg>Phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right and left inferior phrenic arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T162413Z" creationid="quypc" creationdate="20170617T185916Z">
+        <seg>Động mạch hoành dưới phải và trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right atrium</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T152254Z" creationid="quypc" creationdate="20170617T185741Z">
+        <seg>Tâm nhĩ phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right auricle (atrial appendage)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T145221Z" creationid="quypc" creationdate="20170617T185737Z">
+        <seg>Tiểu nhĩ phải (nhĩ phụ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right brachiocephalic vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T142641Z" creationid="quypc" creationdate="20170617T185712Z">
+        <seg>Tĩnh mạch cánh tay đầu phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right colic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164719Z" creationid="quypc" creationdate="20170617T185945Z">
+        <seg>Động mạch kết tràng phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right crus of diaphragm (forming right boundary of esophageal hiatus)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T235505Z" creationid="quypc" creationdate="20170617T190020Z">
+        <seg>Trụ phải của cơ hoành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right external iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074529Z" creationid="quypc" creationdate="20170623T143252Z">
+        <seg>Động mạch chậu ngoài phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right gastric artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163755Z" creationid="quypc" creationdate="20170617T185927Z">
+        <seg>Động mạch vị phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right gastro-omental (gastro-epiploic) artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164158Z" creationid="quypc" creationdate="20170617T185929Z">
+        <seg>Động mạch vị mạc nối phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right hepatic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163241Z" creationid="quypc" creationdate="20170617T185919Z">
+        <seg>Động mạch gan phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right inferior suprarenal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001320Z" creationid="quypc" creationdate="20170617T190038Z">
+        <seg>Động mạch thượng thận dưới phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right inferior suprarenal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160855Z" creationid="quypc" creationdate="20170617T185849Z">
+        <seg>Tĩnh mạch thượng thận dưới phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right leg</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061321Z" creationid="quypc" creationdate="20170627T061321Z">
+        <seg>Cẳng chân phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right middle suprarenal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001252Z" creationid="quypc" creationdate="20170617T190036Z">
+        <seg>Động mạch thượng thận giữa phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right ovarian artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074159Z" creationid="quypc" creationdate="20170627T074159Z">
+        <seg>Động mạch buồng trứng phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right ovary</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074622Z" creationid="quypc" creationdate="20170623T143301Z">
+        <seg>Buồng trứng phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right renal artery and vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001635Z" creationid="quypc" creationdate="20170617T190042Z">
+        <seg>Động mạch và tĩnh mạch thận phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right renal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160904Z" creationid="quypc" creationdate="20170617T185850Z">
+        <seg>Tĩnh mạch thận phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right superior pulmonary vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144301Z" creationid="quypc" creationdate="20170617T185726Z">
+        <seg>Tĩnh mạch phổi trên phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right superior suprarenal arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001230Z" creationid="quypc" creationdate="20170617T190035Z">
+        <seg>Động mạch thượng thận trên phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right suprarenal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001311Z" creationid="quypc" creationdate="20170617T190037Z">
+        <seg>Tĩnh mạch thượng thận phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right testicular (ovarian) artery and vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001714Z" creationid="quypc" creationdate="20170617T190043Z">
+        <seg>Động mạch và tĩnh mạch tinh hoàn (buồng trứng) phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right ureter</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074755Z" creationid="quypc" creationdate="20170623T143317Z">
+        <seg>Niệu quản phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right vagus nerve Right recurrent laryngeal nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T142531Z" creationid="quypc" creationdate="20170617T185712Z">
+        <seg>Thần kinh phế vị phải Thần kinh thanh quản phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right ventricle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144717Z" creationid="quypc" creationdate="20170617T185732Z">
+        <seg>Tâm thất phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Round ligament of uterus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161734Z" creationid="quypc" creationdate="20170617T185908Z">
+        <seg>Dây chằng tròn của tử cung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SUPERIOR</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074114Z" creationid="quypc" creationdate="20170627T074114Z">
+        <seg>PHÍA TRÊN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sacrotuberous ligament</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045948Z" creationid="quypc" creationdate="20170627T045948Z">
+        <seg>Dây chằng cùng ụ ngồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Saphenous nerve (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062021Z" creationid="quypc" creationdate="20170627T062021Z">
+        <seg>Thần kinh hiển (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Saphenous nerve (terminal branch of femoral nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042105Z" creationid="quypc" creationdate="20170627T042105Z">
+        <seg>Thần kinh hiển (nhánh tận của thần kinh đùi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Saphenous opening (fossa ovalis)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041737Z" creationid="quypc" creationdate="20170627T041737Z">
+        <seg>Lỗ tĩnh mạch hiển (hố bầu dục)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sciatic nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050451Z" creationid="quypc" creationdate="20170627T050451Z">
+        <seg>Thần kinh ngồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Semimembranosus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050728Z" creationid="quypc" creationdate="20170627T050728Z">
+        <seg>Cơ bán màng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Semitendinosus muscle (retracted)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050632Z" creationid="quypc" creationdate="20170627T050632Z">
+        <seg>Cơ bán gân (kéo vào trong)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Serratus anterior muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T235804Z" creationid="quypc" creationdate="20170617T190023Z">
+        <seg>Cơ răng trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Short gastric arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163405Z" creationid="quypc" creationdate="20170617T185923Z">
+        <seg>Động mạch vị ngắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sigmoid arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154515Z" creationid="quypc" creationdate="20170617T185815Z">
+        <seg>Động mạch xích ma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sigmoid mesocolon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164951Z" creationid="quypc" creationdate="20170617T190002Z">
+        <seg>Mạc treo kết tráng xích ma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Small saphenous vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043632Z" creationid="quypc" creationdate="20170627T043632Z">
+        <seg>Tĩnh mạch hiển bé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Small saphenous vein and lateral</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042527Z" creationid="quypc" creationdate="20170627T042527Z">
+        <seg>Tĩnh mạch hiển bé và</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Soleus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062523Z" creationid="quypc" creationdate="20170627T062523Z">
+        <seg>Cơ dép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Soleus muscle (cut and reflected)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T055945Z" creationid="quypc" creationdate="20170627T055945Z">
+        <seg>Cơ dép (đã cắt và lật ra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Spleen</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T000129Z" creationid="quypc" creationdate="20170617T190027Z">
+        <seg>Lách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Splenic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163316Z" creationid="quypc" creationdate="20170617T185921Z">
+        <seg>Động mạch lách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Splenic artery and vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164422Z" creationid="quypc" creationdate="20170617T185937Z">
+        <seg>Động mạch và tĩnh mạch lách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Splenic branches of splenic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164105Z" creationid="quypc" creationdate="20170617T185928Z">
+        <seg>Các nhánh tận của động mạch lách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Straight arteries (arteriae rectae)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T165430Z" creationid="quypc" creationdate="20170626T165430Z">
+        <seg>Các động mạch thẳng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Subcostal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154623Z" creationid="quypc" creationdate="20170617T185818Z">
+        <seg>Động mạch dưới sườn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Subcostal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161122Z" creationid="quypc" creationdate="20170617T185854Z">
+        <seg>Tĩnh mạch dưới sườn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Subscapular artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005952Z" creationid="quypc" creationdate="20170627T005952Z">
+        <seg>Động mạch dưới vai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial branch of radial nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003822Z" creationid="quypc" creationdate="20170627T003822Z">
+        <seg>Nhánh nông của thần kinh quay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial branch of ulnar nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T035305Z" creationid="quypc" creationdate="20170627T035305Z">
+        <seg>Nhánh nông của thần kinh trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial circumflex iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155544Z" creationid="quypc" creationdate="20170614T151922Z">
+        <seg>Động mạch mũ chậu nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial circumflex iliac vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161643Z" creationid="quypc" creationdate="20170614T151730Z">
+        <seg>Tĩnh mạch mũ chậu nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial epigastric artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T052008Z" creationid="quypc" creationdate="20170614T151921Z">
+        <seg>Động mạch thượng vị nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial epigastric artery (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155914Z" creationid="quypc" creationdate="20170617T185839Z">
+        <seg>Động mạch thượng vị nông (cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial epigastric vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T040757Z" creationid="quypc" creationdate="20170614T151727Z">
+        <seg>Tĩnh mạch thượng vị nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial epigastric vein (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161816Z" creationid="quypc" creationdate="20170617T185910Z">
+        <seg>Tĩnh mạch thượng vị nông (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial external pudendal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160112Z" creationid="quypc" creationdate="20170614T151922Z">
+        <seg>Động mạch thẹn ngoài nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial external pudendal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041820Z" creationid="quypc" creationdate="20170627T041820Z">
+        <seg>Tĩnh mạch thẹn ngoài nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial fibular (peroneal) nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042321Z" creationid="quypc" creationdate="20170627T042321Z">
+        <seg>Thần kinh mác nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial fibular (peroneal) nerve (cut)  Extensor hallucis longus muscle and tendon (cut) Interosseous membrane</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062744Z" creationid="quypc" creationdate="20170627T062744Z">
+        <seg>Thần kinh mác nông (đã cắt) Cơ duỗi ngón chân cái dài và gân (đã cắt) Màng gian cốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial inguinal nodes</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044530Z" creationid="quypc" creationdate="20170627T044530Z">
+        <seg>Các hạch bẹn nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial lymph vessels</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044648Z" creationid="quypc" creationdate="20170627T044648Z">
+        <seg>Các mạch bạch huyết nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial palmar (arterial) arch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T040036Z" creationid="quypc" creationdate="20170627T040036Z">
+        <seg>Cung (động mạch) gan tay nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial palmar branch of radial artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034302Z" creationid="quypc" creationdate="20170627T034302Z">
+        <seg>Nhánh nông của động mạch quay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superficial transverse metacarpal ligament</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005317Z" creationid="quypc" creationdate="20170627T005317Z">
+        <seg>Dây chằng đốt bàn ngang nông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior clunial nerves (L1, 2, 3)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045218Z" creationid="quypc" creationdate="20170627T045218Z">
+        <seg>Thần kinh bì mông trên (L1, 2, 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior clunial nerves (from dorsal rami of L1, 2, 3)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043325Z" creationid="quypc" creationdate="20170627T043325Z">
+        <seg>Thần kinh bì mông trên (từ nhánh sau  L1, 2, 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior fibular (peroneal) retinaculum Lateral calcaneal branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060734Z" creationid="quypc" creationdate="20170627T060734Z">
+        <seg>Mạc giữ gân cơ mác trên Nhánh gót ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior gluteal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155225Z" creationid="quypc" creationdate="20170617T185823Z">
+        <seg>Động mạch mông trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior gluteal artery and nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045339Z" creationid="quypc" creationdate="20170627T045339Z">
+        <seg>Động mạch và thần kinh mông trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior gluteal vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161237Z" creationid="quypc" creationdate="20170617T185857Z">
+        <seg>Tĩnh mạch mông trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior lateral genicular artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051755Z" creationid="quypc" creationdate="20170627T051755Z">
+        <seg>Động mạch gối trên ngoài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior lateral genicular artery Plantaris muscle (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061407Z" creationid="quypc" creationdate="20170627T061407Z">
+        <seg>Động mạch gối trên ngoài Cơ gan chân (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior medial genicular artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051121Z" creationid="quypc" creationdate="20170627T051121Z">
+        <seg>Động mạch gối trên trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior medial genicular artery Gastrocnemius muscle (medial head) (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T055533Z" creationid="quypc" creationdate="20170614T151948Z">
+        <seg>Động mạch gối trên trong Cơ bụng chân (đầu trong) (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior mesenteric artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T153803Z" creationid="quypc" creationdate="20170617T185745Z">
+        <seg>Động mạch mạc treo tràng trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior mesenteric artery (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001857Z" creationid="quypc" creationdate="20170617T190044Z">
+        <seg>Động mạch mạc treo tràng trên (đã cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior mesenteric artery and vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164617Z" creationid="quypc" creationdate="20170617T185942Z">
+        <seg>Động mạch và tĩnh mạch mạc treo tràng trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior rectal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154744Z" creationid="quypc" creationdate="20170617T185819Z">
+        <seg>Động mạch trực tràng trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior suprarenal arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T153634Z" creationid="quypc" creationdate="20170617T185744Z">
+        <seg>Các động mạch thượng thận trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior suprarenal arteries Middle suprarenal artery Inferior</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154217Z" creationid="quypc" creationdate="20170617T185750Z">
+        <seg>Động mạch thượng thận trên Động mạch thượng thận giữa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior thoracic artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005758Z" creationid="quypc" creationdate="20170627T005758Z">
+        <seg>Động mạch ngực trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior ulnar collateral artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010647Z" creationid="quypc" creationdate="20170627T010647Z">
+        <seg>Động mạch bên trụ trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior vena cava</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T143709Z" creationid="quypc" creationdate="20170617T185719Z">
+        <seg>Tĩnh mạch chủ trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior vesical arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073535Z" creationid="quypc" creationdate="20170627T073535Z">
+        <seg>Các động mạch bàng quang trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superior vesical vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161613Z" creationid="quypc" creationdate="20170617T185905Z">
+        <seg>Tĩnh mạch bàng quang trên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Supra- duodenal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T163944Z" creationid="quypc" creationdate="20170617T185927Z">
+        <seg>Động mạch trên tá tràng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Supraduodenal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164435Z" creationid="quypc" creationdate="20170617T185938Z">
+        <seg>Động mạch trên tá tràng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sural (muscular) branches</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T055654Z" creationid="quypc" creationdate="20170614T151949Z">
+        <seg>Các nhánh bắp chân (cơ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sural communicating nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043719Z" creationid="quypc" creationdate="20170627T043719Z">
+        <seg>Nhánh nối mác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sural nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043822Z" creationid="quypc" creationdate="20170627T043822Z">
+        <seg>Thần kinh bắp chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tendinous arch of soleus muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060008Z" creationid="quypc" creationdate="20170627T060008Z">
+        <seg>Cung gân cơ dép</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tensor fasciae latae muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T045614Z" creationid="quypc" creationdate="20170627T045614Z">
+        <seg>Cơ căng mạc đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Terminal branches of posterior femoral cutaneous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043526Z" creationid="quypc" creationdate="20170627T043526Z">
+        <seg>Nhánh tận của thần kinh bì đùi sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Testicular (ovarian) arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154007Z" creationid="quypc" creationdate="20170617T185747Z">
+        <seg>Động mạch tinh hoàn (buồng trứng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Testicular (ovarian) artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155256Z" creationid="quypc" creationdate="20170617T185824Z">
+        <seg>Động mạch tinh hoàn (buồng trứng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thoracic aorta</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T235817Z" creationid="quypc" creationdate="20170617T190024Z">
+        <seg>Động mạch chủ ngực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thoracic duct</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001127Z" creationid="quypc" creationdate="20170627T001127Z">
+        <seg>Ống ngực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thoraco-acromial artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005719Z" creationid="quypc" creationdate="20170627T005719Z">
+        <seg>Động mạch cùng vai ngực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thoracodorsal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T010117Z" creationid="quypc" creationdate="20170627T010117Z">
+        <seg>Động mạch ngực lưng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tibia</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062623Z" creationid="quypc" creationdate="20170627T062623Z">
+        <seg>Xương chày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tibial collateral ligament</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T061855Z" creationid="quypc" creationdate="20170627T061855Z">
+        <seg>Dây chằng bên chày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tibial nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T051800Z" creationid="quypc" creationdate="20170627T051800Z">
+        <seg>Thần kinh chày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tibialis anterior muscle (cut) Gastrocnemius muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062516Z" creationid="quypc" creationdate="20170627T062516Z">
+        <seg>Cơ chày trước (đã cắt) Cơ bụng chân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tibialis anterior tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T071350Z" creationid="quypc" creationdate="20170627T071350Z">
+        <seg>Gân cơ chày trước</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tibialis posterior muscle</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060156Z" creationid="quypc" creationdate="20170627T060156Z">
+        <seg>Cơ chày sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tibialis posterior tendon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060424Z" creationid="quypc" creationdate="20170627T060424Z">
+        <seg>Gân cơ chày sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Transversalis fascia (cut)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T160149Z" creationid="quypc" creationdate="20170617T185842Z">
+        <seg>Mạc ngang (cắt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Transverse mesocolon</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T164904Z" creationid="quypc" creationdate="20170617T185952Z">
+        <seg>Mạc treo kết tràng ngang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Transverse pericardial sinus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144134Z" creationid="quypc" creationdate="20170617T185723Z">
+        <seg>Xoang ngang màng ngoài tim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ulnar artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T011102Z" creationid="quypc" creationdate="20170627T011102Z">
+        <seg>Động mạch trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ulnar artery and nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T034931Z" creationid="quypc" creationdate="20170627T034931Z">
+        <seg>Động mạch và thần kinh trụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Umbilical  (patent part) artery giving rise to superior vesical arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170617T185824Z" creationid="quypc" creationdate="20170617T185824Z">
+        <seg>adcd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Umbilical artery (patent part)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T073849Z" creationid="quypc" creationdate="20170627T073849Z">
+        <seg>Động mạch rốn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ureteric branch</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001601Z" creationid="quypc" creationdate="20170617T190040Z">
+        <seg>Nhánh niệu quản</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ureteric branch of left renal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001554Z" creationid="quypc" creationdate="20170627T001554Z">
+        <seg>Nhánh niệu quản của động mạch thận trái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Uterine artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074853Z" creationid="quypc" creationdate="20170623T143327Z">
+        <seg>Động mạch tử cung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Uterine tube</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T074453Z" creationid="quypc" creationdate="20170627T074453Z">
+        <seg>Vòi tử cung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Uterine vein</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T161537Z" creationid="quypc" creationdate="20170617T185904Z">
+        <seg>Tĩnh mạch tử cung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Uterovaginal venous plexus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T162011Z" creationid="quypc" creationdate="20170617T185912Z">
+        <seg>Đám rối tử cung âm đạo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Uterus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170623T143310Z" creationid="quypc" creationdate="20170623T143310Z">
+        <seg>Tử cung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vagina</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170623T143342Z" creationid="quypc" creationdate="20170623T143342Z">
+        <seg>Âm đạo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vastus lateralis muscle deep to iliotibial tract</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T050531Z" creationid="quypc" creationdate="20170627T050531Z">
+        <seg>Cơ rộng ngoài và dải chậu chày</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vertical group: Inferior nodes</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T044502Z" creationid="quypc" creationdate="20170627T044502Z">
+        <seg>Nhóm đứng: Các hạch dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vesical venous plexus</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T162233Z" creationid="quypc" creationdate="20170617T185913Z">
+        <seg>Đám rối bàng quang niệu đạo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vessels passing around web to dorsum of hand</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005137Z" creationid="quypc" creationdate="20170614T151606Z">
+        <seg>Cách hạch bạch huyết chạy vòng qua kẽ ngón tay ra mu bàn tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vessels passing to dorsum of fingers</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005200Z" creationid="quypc" creationdate="20170614T151607Z">
+        <seg>Hạch bạch huyết chạy ra mu ngón tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vessels passing to dorsum of hand</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T005014Z" creationid="quypc" creationdate="20170627T005014Z">
+        <seg>Cách hạch bạch huyết chạy ra mặt mu của bàn tay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Xiphoid process</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T234430Z" creationid="quypc" creationdate="20170617T190011Z">
+        <seg>Mỏm mũi kiếm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>and median basilic veins (see Plate 401).</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003325Z" creationid="quypc" creationdate="20170614T151551Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>antebrachial cutaneous nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002743Z" creationid="quypc" creationdate="20170614T151543Z">
+        <seg>thần kinh bì cẳng tay trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>appendage)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144857Z" creationid="quypc" creationdate="20170626T144857Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170623T143256Z" creationid="quypc" creationdate="20170623T143256Z">
+        <seg>động mạch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>branch of deep</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155421Z" creationid="quypc" creationdate="20170617T185826Z">
+        <seg>nhánh của</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>branch of deep fibular (peroneal) nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T071455Z" creationid="quypc" creationdate="20170627T071455Z">
+        <seg>nhánh ngoài của thần kinh mác sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>branch of subcostal nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T040656Z" creationid="quypc" creationdate="20170627T040656Z">
+        <seg>của thần kinh dưới sườn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>circumflex iliac artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155448Z" creationid="quypc" creationdate="20170617T185827Z">
+        <seg>Động mạch mũ chậu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>cutaneous nerve (from radial nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T002440Z" creationid="quypc" creationdate="20170614T151541Z">
+        <seg>Thần kinh bì (từ thần kinh quay)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>dorsal cutaneous nerve (from sural nerve)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T042616Z" creationid="quypc" creationdate="20170627T042616Z">
+        <seg>Thần kinh bì mu chân ngoài (từ thần kinh bắp chân)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>dorsal rami of S1, 2, 3)</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T043232Z" creationid="quypc" creationdate="20170627T043232Z">
+        <seg>nhánh sau  S1, 2, 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170623T143453Z" creationid="quypc" creationdate="20170623T143453Z">
+        <seg>thần kinh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>of fibular (peroneal) artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T060326Z" creationid="quypc" creationdate="20170627T060326Z">
+        <seg>của động mạch mác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>of genitofemoral nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T041650Z" creationid="quypc" creationdate="20170627T041650Z">
+        <seg>của thần kinh sinh dục đùi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>of right renal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T001608Z" creationid="quypc" creationdate="20170617T190040Z">
+        <seg>của động mạch thận phải</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>pulmonary artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T144052Z" creationid="quypc" creationdate="20170617T185723Z">
+        <seg>Động mạch phổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>recurrent branch of deep fibular (peroneal) nerve</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T062431Z" creationid="quypc" creationdate="20170627T062431Z">
+        <seg>nhánh quặt ngược của thần kinh mác sâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>renal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154230Z" creationid="quypc" creationdate="20170617T185752Z">
+        <seg>Động mạch thận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>sacral arteries</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T155142Z" creationid="quypc" creationdate="20170617T185822Z">
+        <seg>Động mạch cùng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>suprarenal artery</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170626T154224Z" creationid="quypc" creationdate="20170617T185751Z">
+        <seg>Động mạch thượng thận dưới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>vein (tributary to basilic vein) replaces median cephalic</seg>
+      </tuv>
+      <tuv xml:lang="VI" changeid="quypc" changedate="20170627T003322Z" creationid="quypc" creationdate="20170614T151550Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

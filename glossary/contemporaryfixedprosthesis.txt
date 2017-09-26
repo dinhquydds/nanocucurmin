@@ -1,0 +1,28 @@
+subgingival	dưới nướu
+junctional epithelium	kết nối biểu mô
+predominant	chủ yếu
+polymorphonuclear leukocytes	bạch cầu đa nhân
+interproximal gingiva	gai nướu
+attachment	bám dính
+accumulation	tích tụ
+bone loss	tiêu xương
+arrow	mũi tên
+biologic width	khoảng sinh học
+BWVs	khoảng sinh học
+cementoenamel junction	đường nối men - xê măng
+diamond bur	mũi khoan kim cương
+amalgam	amalgam
+luting agent	xi măng gắn
+margin gap	hở bờ
+recurrent caries	sâu răng tái phát
+radiation treatment	xạ trị
+occlusal surface	mặt nhai
+tooth wear	mòn răng
+Posttreatment	sau điều trị
+wear facet	diện mòn
+Nonworking	không làm việc
+future	tương lai
+canine guidance	hướng dẫn răng nanh
+anterior guidance	hướng dẫn phía trước
+centric relation	tương quan trung tâm
+posterior guidance	hướng dẫn phía sau

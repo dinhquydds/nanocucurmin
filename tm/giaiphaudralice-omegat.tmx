@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ANATOMY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170213T181837Z" creationid="quypc" creationdate="20170213T181837Z">
+        <seg>GIẢI PHẪU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Body composition</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170213T182037Z" creationid="quypc" creationdate="20170213T182037Z">
+        <seg>Thành phần cơ thể</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Body systems</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170213T182041Z" creationid="quypc" creationdate="20170213T182041Z">
+        <seg>Hệ thống cơ thể</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170213T182032Z" creationid="quypc" creationdate="20170213T182032Z">
+        <seg>Tế bào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HUMAN</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170213T181844Z" creationid="quypc" creationdate="20170213T181844Z">
+        <seg>NGƯỜI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regio cervicalis lateralis</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170214T022952Z" creationid="quypc" creationdate="20170214T022952Z">
+        <seg>Vùng cổ bên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions of the body</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170214T022923Z" creationid="quypc" creationdate="20170214T022923Z">
+        <seg>Khu vực của cơ thể</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surface anatomy</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170214T022823Z" creationid="quypc" creationdate="20170214T022823Z">
+        <seg>Giải phẫu bề mặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE DEFINITIVE VISUAL GUIDE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170213T181954Z" creationid="quypc" creationdate="20170213T181954Z">
+        <seg>HƯỚNG DẪN TRỰC QUAN CHÍNH XÁC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE MOLECULE OF LIFE</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170213T182123Z" creationid="quypc" creationdate="20170213T182123Z">
+        <seg>CÁC PHÂN TỬ CỦA CUỘC SỐNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terminology and planes</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170213T182052Z" creationid="quypc" creationdate="20170213T182052Z">
+        <seg>Thuật ngữ và mặt phẳng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trigonum fem oris</seg>
+      </tuv>
+      <tuv lang="VI" changeid="quypc" changedate="20170214T022917Z" creationid="quypc" creationdate="20170214T022917Z">
+        <seg>Trigonum femoris</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,327 @@
+﻿pericardium	màng ngoài tim
+cut edge	bờ cắt
+vagus nerve	thần kinh phế vị
+brachiocephalic	cánh tay đầu
+vein	tĩnh mạch
+right	phải
+phrenic nerve	thần kinh hoành
+subclavian	dưới đòn
+artery	động mạch
+thoracic	ngực
+artery and vein	động mạch và tĩnh mạch
+aorta	động mạch chủ
+common carotid artery	động mạch cảnh chung
+left	trái
+internal jugular vein	tĩnh mạch cảnh trong
+vagus nerve	thần kinh lang thang
+ligamentum arteriosum	dây chằng động mạch
+vena cava	tĩnh mạch chủ
+superior	trên
+laryngeal nerve	thần kinh thanh quản
+recurrent	quặt ngược
+pulmonary	động mạch phổi
+trunk	thân
+transverse pericardial sinus	xoang ngang màng ngoài tim
+pulmonary vein	tĩnh mạch phổi
+pulmonary	phổi
+hilum	cuống
+lung	phổi
+mediastinal pleura	màng phổi trung thất
+ventricle	tâm thất
+auricle	tiểu nhĩ
+inferior	dưới
+conus arteriosus	nón động mạch
+coronary sulcus	rãnh vành
+coronary artery	động mạch vành
+anterior interventricular sulcus	rãnh gian thất trước
+interventricular	gian thất
+anterior	trước
+atrium	tâm nhĩ
+phrenic arterie	động mạch hoành
+esophagus	thực quản
+suprarenal artery	động mạch thượng thận
+mesenteric artery	động mạch mạc treo tràng
+renal artery	động mạch thận
+testicular	tinh hoàn
+ovarian	buồng trứng
+common hepatic	gan chung
+gastric	vị
+splenic	lách
+psoas major muscle	cơ thắt lưng lớn
+cut	cắt
+quadratus lumborum muscle	cơ vuông thắt lưng
+colic	kết tràng
+subcostal artery	động mạch dưới sườn
+lumbar artery	động mạch thắt lưng
+rectal	trực tràng
+iliac	chậu
+sacral artery	động mạch cùng
+median	giữa
+Iliolumbar artery	động mạch chậu thắt lưng
+gluteal artery	động mạch mông
+external	ngoài
+obturator artery	động mạch bịt
+pudendal artery	động mạch thẹn
+epigastric artery	động mạch thượng vị
+femoral artery	Động mạch đùi
+ductus deferens	ống dẫn tinh
+transversalis fascia	mạc ngang
+anterior abdominal wall	thành bụng trước
+umbilical ligament	dây chằng rốn
+diaphragm	cơ hoành
+hepatic	gan
+phrenic	hoành
+anastomosis	vòng nối
+suprarenal	thượng thận
+lumbar	thắt lưng
+Subcostal	dưới sườn
+Internal	trong
+ureter	niệu quản
+vesical	bàng quang
+Round ligament	dây chằng tròn
+uterus	tử cung
+Femoral vein	tĩnh mạch đùi
+Uterovaginal venous plexus	đám rối tử cung âm đạo
+saphenous vein	tĩnh mạch hiển
+pudendal vein	tĩnh mạch thẹn
+Celiac trunk	động mạch thân tạng
+hepatic artery	động mạch gan
+gastric artery	động mạch vị
+Splenic artery	động mạch lách
+Cystic artery	động mạch túi mật
+Cystic duct	ống túi mật
+Hepatic portal vein	Tĩnh mạch cửa
+duodenal	tá tràng
+Gastroduodenal artery	động mạch vị tá tràng
+Appendicular artery	động mạch ruột thừa
+cecal artery	động mạch manh tràng
+Ileocolic artery	động mạch hồi kết tràng
+Marginal artery	động mạch bờ
+Costal cartilage	sụn sườn
+Xiphoid process	mỏm mũi kiếm
+Rectus abdominis muscle	cơ thẳng bụng
+Esophagogastric	thực quản dạ dày
+crus	trụ
+Gastric fold	nếp dạ dày
+Fundus of stomach	đáy vị
+Serratus anterior muscle	cơ răng trước
+Azygos vein	tĩnh mạch đơn
+Latissimus dorsi muscle	cơ lưng rộng
+costodiaphragmatic recess	ngách sườn hoành
+Inferior lobe	thuỳ dưới
+lung	phổi
+Erector spinae muscle	Cơ dựng gai
+Thoracic duct	ống ngực
+Cephalic vein	tĩnh mạch đầu
+Basilic vein	tĩnh mạch nền
+Posterior antebrachial	cẳng tay sau
+antebrachial cutaneous nerve	thần kinh bì cẳng tay
+radial nerve	thần kinh quay
+musculocutaneous nerve	thần kinh cơ bì
+Median basilic vein	tĩnh mạch giữa nền
+Median cephalic vein	tĩnh mạch giữa đầu
+Perforating vein	tĩnh mạch xuyên
+Median antebrachial vein	tĩnh mạch cẳng tay giữa
+Palmar aponeurosis	cân gan tay
+ulnar nerve	thần kinh trụ
+Superficial branch	nhánh nông
+extensor retinaculum	mạc giữ gân duỗi
+Palmar carpal ligament	dây chằng gan cổ tay
+Palmar branch	nhánh gan tay
+median nerve	thần kinh giữa
+Intercapitular vein	tĩnh mạch kẽ ngón tay
+Dorsal venous network	cung tĩnh mạch mu tay
+Dorsal metacarpal vein	tĩnh mạch mu đốt bàn
+Palmar digital nerve	thần kinh gan ngón riêng
+palmar digital vein	tĩnh mạch gan ngón tay
+Deltopectoral node	Hạch delta ngực
+Lateral axillary node	Hạch nách ngoài
+axillary vein	tĩnh mạch nách
+Cubital node	hạch trụ
+Median cubital vein	tĩnh mạch giữa trụ
+dorsum of hand	mu bàn tay
+Superficial transverse metacarpal ligament	dây chằng đốt bàn ngang nông
+Clavicular branch	nhánh đòn
+Pectoral branch	nhánh ngực
+Acromial branch	nhánh cùng vai
+Deltoid branch	nhánh delta
+Thoraco-acromial artery	động mạch cùng vai ngực
+thoracic artery	động mạch ngực
+Axillary artery	động mạch nách
+circumflex humeral artery	động mạch mũ cánh tay
+Subscapular artery	động mạch dưới vai
+Circumflex scapular artery	động mạch mũ vai
+Brachial artery	động mạch cánh tay
+Thoracodorsal artery	động mạch ngực lưng
+teres major muscle	cơ tròn lớn
+Radial collateral artery	động mạch bên quay
+Middle collateral artery	động mạch bên giữa
+ulnar collateral artery	động mạch bên trụ
+Radial recurrent artery	động mạch quặt ngược quay
+Recurrent interosseous artery	động mạch quặt ngược gian cốt
+ulnar recurrent artery	động mạch quặt ngược trụ
+interosseous artery	động mạch gian cốt
+Radial artery	động mạch quay
+Ulnar artery	động mạch trụ
+Flexor tendon	gân gấp
+synovial	hoạt dịch
+fibrous sheath	bao xơ
+lumbrical muscle	cơ giun
+Adductor pollicis muscle	cơ khép ngón cái
+Superficial palmar branch	nhánh gan tay nông
+Princeps pollicis artery	động mạch ngón cái chính
+Radialis indicis artery	động mạch quay ngón trỏ
+Common palmar digital arterie	động mạch gan ngón chung
+Palmar carpal branches	nhánh gan cổ tay
+Pisiform	xương đậu
+hypothenar muscle	cơ mô út
+hamate	xương móc
+interosseous	gian cốt
+flexor pollicis brevis muscle	cơ gấp ngón cái ngắn
+Flexor retinaculum	mạc giữ gân gấp
+Abductor pollicis brevis muscle	cơ dạng ngón cái ngắn
+Opponens pollicis muscle	cơ đối ngón cái
+thenar muscle	cơ mô cái
+Inguinal ligament	dây chằng bẹn
+epigastric vein	tĩnh mạch thượng vị
+Superficial	nông
+Ilio-inguinal nerve	thần kinh chậu bẹn
+scrotal branch	nhánh bìu
+superficial inguinal ring	lỗ bẹn nông
+deep inguinal ring	lỗ bẹn sâu
+Lateral femoral cutaneous nerve	thần kinh bì đùi ngoài
+genitofemoral nerve	thần kinh sinh dục đùi
+Genital branch	nhánh sinh dục
+Femoral branch	nhánh đùi
+Saphenous opening	lỗ tĩnh mạch hiển
+fossa ovalis	hố bầu dục
+Fascia lata	mạc đùi
+femoral nerve	thần kinh đùi
+obturator nerve	thần kinh bịt
+Patellar nerve plexus	đám rối thần kinh bánh chè
+Infrapatellar branch	nhánh dưới bánh chè
+saphenous nerve	thần kinh hiển
+terminal branch	nhánh tận
+lateral sural cutaneous nerve	thần kinh bì bắp chân ngoài
+fibular nerve	thần kinh mác
+Dorsal digital nerve	thần kinh mu ngón
+dorsal cutaneous nerve	thần kinh bì mu
+sural nerve	thần kinh bắp chân
+Lateral dorsal digital nerve	thần kinh mu ngón chân ngoài
+cutaneous branch	nhánh bì
+iliohypogastric nerve	thần kinh chậu hạ vị
+Iliac crest	mào chậu
+Medial clunial nerves	thần kinh bì mông giữa
+dorsal rami	nhánh sau
+Superior clunial nerve	thần kinh bì mông trên
+Inferior clunial nerve	thần kinh bì mông dưới
+posterior femoral cutaneous nerve	thần kinh bì đùi sau
+Perforating cutaneous nerve	thần kinh bì xuyên
+Small saphenous vein	tĩnh mạch hiển bé
+Medial sural cutaneous nerve	thần kinh bì bắp chân trong
+tibial nerve	thần kinh chày
+calcaneal	gót	thuộc về gót
+Lateral dorsal cutaneous nerve	thần kinh bì mu chân ngoài
+Plantar cutaneous branch	nhánh bì gan chân
+medial plantar nerve	thần kinh gan chân trong
+lateral plantar nerve	thần kinh gan chân ngoài
+Popliteal vein	tĩnh mạch kheo
+Popliteal	kheo	thuộc về kheo
+lymph node	hạch bạch huyết
+Horizontal group	nhóm ngang
+Superolateral	trên ngoài
+Superomedial	trên trong
+Vertical group	nhóm đứng	nhóm dọc
+inguinal	bẹn	thuộc về bẹn
+Cribriform fascia	mạc sàng
+lymph vessel	mạch bạch huyết
+Femoral ring	vòng đùi
+Lacunar ligament	dây chằng khuyết
+Femoral canal	ống đùi
+Femoral	đùi	thuộc về đùi
+gluteus medius muscle 	cơ mông nhỡ
+Gluteal aponeurosis	mạc mông
+Gluteus maximus muscle	cơ mông lớn
+Gluteus minimus muscle	cơ mông bé
+Tensor fasciae latae muscle	cơ căng mạc đùi
+Pudendal nerve	thần kinh thẹn
+Piriformis muscle	cơ hình lê
+Superior gemellus muscle	cơ sinh đôi trên
+obturator internus	bịt trong
+superior gemellus	sinh đôi trên
+Greater trochanter	mấu chuyển lớn
+femur	xương đùi
+Sacrotuberous ligament	dây chằng cùng ụ ngồi
+Ischial tuberosity	ụ ngồi
+Inferior gemellus muscle	cơ sinh đôi dưới
+Quadratus femoris muscle	cơ vuông đùi
+Adductor magnus muscle	cơ khép lớn
+Medial circumflex femoral artery	động mạch mũ đùi trong
+Gracilis muscle	cơ thon
+Sciatic nerve	thần kinh ngồi
+Semitendinosus muscle	cơ bán gân
+Adductor	khép
+Semimembranosus muscle	cơ bán màng
+perforating artery	động mạch xuyên
+profunda femoris artery	động mạch đùi sâu
+Articular branch	nhánh khớp
+Adductor hiatus	vòng gân cơ khép
+Biceps femoris muscle	cơ nhị đầu đùi
+Superior medial genicular artery	động mạch gối trên trong
+genicular	gối	thuộc về gối
+Gastrocnemius muscle	cơ bụng chân
+Plantaris muscle	cơ gan chân
+Lateral circumflex femoral artery	động mạch mũ đùi ngoài
+Anterior tibial artery	động mạch chày trước
+Interosseous membrane	màng gian cốt
+Fibular collateral ligament	dây chằng bên mác
+Biceps femoris tendon	gân cơ nhị đầu đùi
+fibula	xương mác
+Popliteus muscle	cơ kheo
+Soleus muscle	cơ dép
+Flexor digitorum longus muscle	cơ gấp các ngón chân dài
+Flexor hallucis longus muscle	cơ gấp ngón chân cái dài
+Tibialis posterior muscle	cơ chày sau
+Perforating branch	nhánh xuyên
+Communicating branch	Nhánh nối
+Flexor digitorum longus tendon	gân cơ gấp các ngón chân dài
+Fibularis longus tendon 	Gân cơ mác dài
+Fibularis brevis tendon	gân cơ mác ngắn
+malleolus	mắt cá
+fibular artery	động mạch mác
+Flexor hallucis longus tendon	gân cơ gấp các ngón chân dài
+metatarsal bone	xương đốt bàn
+posterior tibial artery	động mạch chày sau
+Superior lateral genicular artery	động mạch gối trên ngoài
+retinaculum	mạc
+patellar	bánh chè	thuộc về bánh chè
+Iliotibial tract	dải chậu chày
+Inferior lateral genicular artery	động mạch gối dưới ngoài
+Tibial collateral ligament	dây chằng bên chày
+Medial patellar retinaculum	mạc giữ bánh chè trong
+Infrapatellar branch	nhánh dưới bánh chè
+Inferior medial genicular artery	động mạch gối dưới trong
+Patellar ligament	dây chằng bánh chè
+Fibularis longus muscle	cơ mác dài
+Extensor digitorum longus muscle	cơ duỗi các ngón chân dài
+sartorius	cơ may
+Tibialis anterior muscle	cơ chày trước
+Fibularis brevis muscle	cơ mác ngắn
+Tibia	xương chày
+Extensor hallucis longus muscle	cơ duỗi ngón chân cái dài
+malleolar	mắt cá	thuộc về mắt cá
+Anterior medial malleolar artery	động mạch mắt cá trong trước
+tarsal	cổ chân	thuộc về cổ chân
+Dorsalis pedis artery	động mạch mu chân
+Arcuate artery	động mạch cung
+deep plantar arch	cung động mạch gan chân sâu
+Deep plantar artery	động mạch gan chân sâu
+plantar	gan chân	thuộc về gan chân
+Dorsal metatarsal artery	động mạch mu đốt bàn
+Internal iliac artery	động mạch chậu trong
+External iliac artery	động mạch chậu ngoài
+vesical	bàng quang	thuộc về bàng quang
+Umbilical artery	động mạch rốn
+Inferior vesical artery	động mạch bàng quang dưới
+Peritoneum	Phúc mạc
+Uterine tube	vòi tử cung
